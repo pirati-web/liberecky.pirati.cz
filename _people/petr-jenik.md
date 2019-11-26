@@ -4,6 +4,7 @@ name:     Petr Jeník  	# běžně používáné jméno
 fullname: Petr Jeník  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - zastupitel
+- zastupitel_ceska_lipa
 ordzastupitel: 2
 img: people/petr-jenik.jpg   # 165 x 220
 description: Nezávislý novinář, internetový marketér, zastupitel města Česká Lípa.            	# kratký popis, max 160 znaků

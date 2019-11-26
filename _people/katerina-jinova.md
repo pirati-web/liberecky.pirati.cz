@@ -6,6 +6,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - zastupitel
 - kodo
 - kontaktni_osoba
+- zastupitel_ostatni
 ordzastupitel: 1
 ordkodo: 2
 img: people/katerina-jinova.jpg   # 165 x 220

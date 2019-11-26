@@ -7,6 +7,7 @@ titles:
 category:
   - neclenove
   - zastupitel
+  - zastupitel_jablonec
 ordzastupitel: 1
 ordneclenove: 2
 description: Architekt a urbanista, zastupitel města Jablonec n.N

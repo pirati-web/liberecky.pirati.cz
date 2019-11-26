@@ -5,6 +5,7 @@ fullname: Jan Polák  	# jméno s tituly etc.
 category:
   - pmsjbc
   - zastupitel
+  - zastupitel_jablonec
 ordzastupitel: 4
 ordpmsjbc: 1
 description:

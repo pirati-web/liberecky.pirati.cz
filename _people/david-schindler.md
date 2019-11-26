@@ -5,6 +5,7 @@ fullname: David Schindler  	# jméno s tituly etc.
 category:
   - clenove
   - zastupitel
+  - zastupitel_turnov
 ordzastupitel: 3  
 ordclenove: 3  
 description: Vlakvedoucí, zastupitel města Turnov

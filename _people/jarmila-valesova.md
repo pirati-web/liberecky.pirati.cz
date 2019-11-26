@@ -8,6 +8,7 @@ titles:
 category:
   - clenove
   - zastupitel
+  - zastupitel_jablonec
 ordzastupitel: 5
 ordclenove: 1
 description: Ekonomka, zastupitel města Jablonec n.N.

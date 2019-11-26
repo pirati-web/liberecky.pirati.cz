@@ -7,6 +7,7 @@ titles:
 category:
   - clenove
   - zastupitel
+  - zastupitel_jablonec
 ordzastupitel: 2
 ordclenove: 1
 description: Právník a podnikatel, zastupitel města Jablonec n.N

@@ -7,6 +7,7 @@ titles:
 category:
   - neclenove
   - zastupitel
+  - zastupitel_jablonec
 ordzastupitel: 3
 ordneclenove: 1
 description: Knihkupec, podnikatel, zastupitel města Janlonec n.N.

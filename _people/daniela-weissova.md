@@ -6,6 +6,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
   - clenove
   - zastupitel
   - pks
+  - zastupitel_turnov
 ordpks: 4
 ordzastupitel: 1  
 ordclenove: 2  

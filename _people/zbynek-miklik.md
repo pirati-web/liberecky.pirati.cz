@@ -7,6 +7,7 @@ titles:
 category: 
   - clenove
   - zastupitel
+  - zastupitel_turnov
 ordzastupitel: 2
 ordclenove: 1
 description: Konzultant, poradenství a školení, zastupitel města Turnov

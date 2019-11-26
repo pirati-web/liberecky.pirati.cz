@@ -5,6 +5,7 @@ fullname: Jan Tempel  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - pks
 - zastupitel
+- zastupitel_ostatni
 ordzastupitel: 1
 ordpks: 2
 img: people/jan-tempel.jpg   # 165 x 220
