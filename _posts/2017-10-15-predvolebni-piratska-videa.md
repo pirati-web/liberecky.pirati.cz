@@ -4,7 +4,7 @@ category:     blog
 tags:         předvolební pirátská videa
 layout:       post
 title:        "Předvolební pirátská videa" 
-image:        /assets/img/posts/predvolebni-piratska-videa.jpg
+image:        posts/predvolebni-piratska-videa.jpg
 author:       Marek Förster
 ---
 

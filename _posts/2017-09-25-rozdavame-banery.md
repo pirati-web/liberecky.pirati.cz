@@ -4,7 +4,7 @@ category:     blog
 tags:         banery rozdavame vyzdob plot balkon
 layout:       post
 title:        "Rozdáváme banery" 
-image:        /assets/img/posts/rozdavame-banery.png
+image:        posts/rozdavame-banery.png
 author:       Marek Förster
 ---
 

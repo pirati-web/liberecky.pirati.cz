@@ -6,7 +6,7 @@ layout: post
 title: Piráti nechtějí Liberec bez bazénu 
 author: Jana Schlegelová
 #authorId: katerina.jinova    # uid nekoho z _people (nepoviné)
-image: /assets/img/posts/2019-01-28-pirati-nechteji-liberec-bez-bazenu.jpg
+image: posts/2019-01-28-pirati-nechteji-liberec-bez-bazenu.jpg
 ---
 Liberec připravuje nutnou rekonstrukci plaveckého bazénu, která celý areál pravděpodobně až na dva roky uzavře. Vedení radnice představilo veřejnosti i plaveckým oddílům alternativu v podobě dojíždění do sousedního Jablonce. Tento kurs řešení problematiky je ale rozhodně nepotěšil! Nemluvě o seniorech, pro které komplikované dojíždění do jiných měst nepřichází v úvahu.
 

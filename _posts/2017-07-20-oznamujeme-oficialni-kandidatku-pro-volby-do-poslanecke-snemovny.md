@@ -4,7 +4,7 @@ category:     blog
 tags:         kandidátka pirati liberecký kraj poslanecká sněmovna 2017 
 layout:       post
 title:        "Oznamujeme oficiální kandidátku Pirátů libereckého kraje pro říjnové volby do Poslanecké sněmovny" 
-image:        /assets/img/posts/oznamujeme-kandidatku-pro-rijnove-volby.jpg
+image:        posts/oznamujeme-kandidatku-pro-rijnove-volby.jpg
 author:       Marek Förster
 ---
 

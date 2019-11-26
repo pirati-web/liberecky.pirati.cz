@@ -4,7 +4,7 @@ category:     blog
 tags:         hazard automaty jablonec referendum kasina ods 
 layout:       post
 title:        "Jablonecká ODS zuřivě hájí hrací automaty. A je to škoda." 
-image:        /assets/img/posts/jablonecka-ods-zurive-hari-hraci-automaty.jpg
+image:        posts/jablonecka-ods-zurive-hari-hraci-automaty.jpg
 author:       Jaroslav Šída
 ---
 V kostce:

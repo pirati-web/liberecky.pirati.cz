@@ -1,0 +1,73 @@
+top:
+  - link: "pirati.cz"
+    url:  "https://www.pirati.cz"
+    icon: "fa fa-home"
+  - link: "wiki.pirati.cz"
+    url:  "https://wiki.pirati.cz"
+    icon: "fa fa-home"
+  - link: "Pirátské listy"
+    url:  "http://www.piratskelisty.cz"
+    icon: "fa fa-newspaper-o"
+  - link: "Fórum - LBK"
+    url:  "https://forum.pirati.cz/viewforum.php?f=87"
+    icon: "fa fa-users"
+
+main:
+  - link: /aktuality/
+    name: Aktuality
+    match: aktuality
+  - link: /lide/
+    name: O nás
+    match: lide
+#  - link: /tabulka/
+#    name: Tabulka
+#    match: tabulka
+#  - link: /komunalni-volby/
+#    name: Komunální volby
+#    match: komunalni-volby
+#    submenu:
+#      - link: /komunalni-volby/mapa-zameru/
+#        name: Mapa záměrů
+#        match: mapa-zameru
+  - link: /kontakt/
+    name: Kontakt
+    match: kontakt
+
+bottom:
+  - class: small-12 medium-4
+    title: Lokální weby
+    links:
+      - link: https://jablonec.pirati.cz
+        name: Jablonec nad Nisou
+      - link: http://piraticl.cz
+        name: Česká Lípa
+      - link: https://turnov.pirati.cz
+        name: Turnov
+      - link: https://semily.pirati.cz
+        name: Semily
+      - link: https://zeleznybrod.pirati.cz
+        name: Železný Brod
+  - class: small-12 medium-4
+    title: Liberecký Kraj
+    links:
+      - link: /lide/
+        name: Lidé
+      - link: /aktuality/
+        name: Aktuality
+      - link: https://forum.pirati.cz/viewforum.php?f=87
+        name: Fórum Pirátské Strany
+      - link: https://forum.pirati.cz/memberlist.php?mode=group&g=41
+        name: Členové na fóru
+      - link: https://nalodeni.pirati.cz/
+        name: Staň se Pirátem!
+  - class: small-12 medium-4
+    title: Otevřenost
+    links:
+      - link: https://ucet.pirati.cz
+        name: Transparentní účet
+      - link: https://smlouvy.pirati.cz
+        name: Registr smluv
+      - link: https://wiki.pirati.cz/fo/otevrene_ucetnictvi
+        name: Otevřené účetnictví
+      - link: https://piroplaceni.pirati.cz/rozpocet/30/
+        name: Rozpočet kraje pro rok 2019

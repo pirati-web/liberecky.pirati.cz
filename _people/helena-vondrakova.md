@@ -3,7 +3,9 @@ uid: helena.vondrakova
 name:     Helena Vondráková      	# běžně používáné jméno
 fullname: Helena Vondráková  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-- koordinatori
+- kodo
+- kontaktni_osoba
+ordkodo: 1
 img: people/helena-vondrakova.jpg           # 165 x 220
 description: Koordinátor dobrovolníků pro Liberecký kraj # kratký popis, max 160 znaků
 mail:

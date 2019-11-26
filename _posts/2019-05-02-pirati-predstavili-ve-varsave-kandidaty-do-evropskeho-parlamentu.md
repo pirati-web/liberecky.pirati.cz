@@ -6,7 +6,7 @@ layout: post
 title: Piráti představili ve Varšavě kandidáty do Evropského parlamentu
 author: Michal Chalupa
 #authorId: katerina.jinova    # uid nekoho z _people (nepoviné)
-image: /assets/img/posts/2019-05-02-pirati-predstavili-ve-varsave-kandidaty-do-evropskeho-parlamentu.jpg
+image: posts/2019-05-02-pirati-predstavili-ve-varsave-kandidaty-do-evropskeho-parlamentu.jpg
 ---
 
 *V libereckém kině Varšava se na Čarodějnice odehrála debata pirátských kandidátů do Evropského parlamentu. V té se nominanti nejprve vyjadřovali k volebnímu programu a dostalo se i na dotazy z publika. Po besedě akce vyvrcholila ohněm v prostorách někdejší fabriky Textilana, kde svůj dýdžejský um předvedl předseda České pirátské strany [Ivan Bartoš](https://www.pirati.cz/lide/ivan-bartos/){:target="_blank"}. Ten také první část večera moderoval.*

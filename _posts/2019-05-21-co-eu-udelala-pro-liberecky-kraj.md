@@ -5,7 +5,7 @@ tags: evropská unie liberecký kraj volby parlament
 layout: post
 title: Co EU udělala pro Liberecký kraj?
 author: Lukáš Lev Červinka
-image: /assets/img/posts/2019-05-21-co-eu-udelala-pro-liberecky-kraj.jpg
+image: posts/2019-05-21-co-eu-udelala-pro-liberecky-kraj.jpg
 ---
 *Nezadržitelně se blíží okamžik, kdy jako občané Evropské unie budeme moci rozhodnout nejen o složení Evropského parlamentu, ale rovněž o dalším směřování Evropy a roli České republiky v ní. Spolu s eurovolbami se tak vynořuje i otázka, k čemu nám vlastně Evropská unie je dobrá a proč bychom k eurovolbám vůbec měli chodit. Co pro nás, kteří žijeme v pohraničí, vlastně kdy EU udělala?*
 

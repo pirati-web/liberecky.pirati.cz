@@ -4,7 +4,7 @@ category:     blog
 tags:         výsledky voleb glosa krajského předsdy
 layout:       post
 title:        "Piráti v Libereckém kraji uspěli ve volbách. Po náročné kampani je však čeká to nejtěžší." 
-image:        /assets/img/posts/2018-10-08-pirati-v-libereckem-kraji-uspeli-ve-volbach-po-narocne-kampani-je-vsak-ceka-to-nejhorsi.png
+image:        posts/2018-10-08-pirati-v-libereckem-kraji-uspeli-ve-volbach.png
 author:       Ondřej Kolek
 ---
 

@@ -4,7 +4,7 @@ category:     blog
 tags:         nedostatky funkce představenstvo dozorčí rada jablonecká dopravní politické trafiky 
 layout:       post
 title:        "Piráti brojí proti politickým trafikám. Chtějí lepší stanovy v městských společnostech" 
-image:        /assets/img/posts/pirati-upozornuji-na-nedostatky-v-nove-vznikajici-mestske-spolecnosti-jablonecka-dopravni-as_2.jpg
+image:        posts/pirati-upozornuji-na-nedostatky-v-nove-vznikajici-mestske-spolecnosti-jablonecka-dopravni-as_2.jpg
 author:       Ida Chuchlíková
 ---
 **Piráti upozorňují na nedostatky a doporučují jabloneckému vedení dvakrát měřit, než rychle rozdávat funkce v představenstvu a dozorčí radě v nově vznikající městské společnosti Jablonecká dopravní a.s.**

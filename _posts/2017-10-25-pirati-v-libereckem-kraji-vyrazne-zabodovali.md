@@ -4,7 +4,7 @@ category:     blog
 tags:         výsledky voleb poslanecká sněmovna liberecký kraj tomáš martínek poslancem
 layout:       post
 title:        "Piráti v Libereckém kraji výrazně zabodovali" 
-image:        /assets/img/posts/pirati-v-libereckem-kraji-vyrazne-zabodovali.jpg
+image:        posts/pirati-v-libereckem-kraji-vyrazne-zabodovali.jpg
 author:       Ondřej Kolek
 ---
 

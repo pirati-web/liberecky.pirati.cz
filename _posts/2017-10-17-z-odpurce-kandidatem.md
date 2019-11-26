@@ -4,7 +4,7 @@ category:     blog
 tags:         odpůrce kandidátem proč piráty
 layout:       post
 title:        "Z odpůrce kandidátem" 
-image:        /assets/img/posts/z-odpurce-kandidatem.jpg
+image:        posts/z-odpurce-kandidatem.jpg
 author:       Jiří Ibl
 ---
 

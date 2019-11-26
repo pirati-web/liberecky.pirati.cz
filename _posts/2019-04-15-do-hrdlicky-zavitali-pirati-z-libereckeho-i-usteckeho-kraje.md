@@ -6,7 +6,7 @@ layout: post
 title: Do Hrdličky zavítali Piráti z Libereckého i Ústeckého kraje
 author: Kateřina Jínová
 #authorId: katerina.jinova    # uid nekoho z _people (nepoviné)
-image: /assets/img/posts/2019-04-15-do-hrdlicky-zavitali-pirati-z-libereckeho-i-usteckeho-kraje.jpg
+image: posts/2019-04-15-do-hrdlicky-zavitali-pirati-z-libereckeho-i-usteckeho-kraje.jpg
 ---
 Villa Hrdlička je zrekonstruovaná secesní vila v České Lípě, kde sídlí poslanecká kancelář Piráta [Tomáše Martínka](https://liberecky.pirati.cz/lide/tomas-martinek/){:target="_blank"}. Není proto náhoda, že se právě zde, v sobotu 13. dubna 2019, konalo Zasedání krajského fóra Pirátů Libereckého kraje.
 

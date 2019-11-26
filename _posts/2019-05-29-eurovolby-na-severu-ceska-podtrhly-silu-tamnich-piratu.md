@@ -5,7 +5,7 @@ tags: volby evropská unie liberecký kraj
 layout: post
 title: Eurovolby na severu Česka podtrhly sílu tamních Pirátů
 author: Ondřej Kolek
-image: /assets/img/posts/2019-05-29-eurovolby-na-severu-ceska-podtrhly-silu-tamnich-piratu.jpg
+image: posts/2019-05-29-eurovolby-na-severu-ceska-podtrhly-silu-tamnich-piratu.jpg
 ---
 *V roce 2019 Piráti z Krajského sdružení pro Liberecký kraj opět předvedli velmi dobrý výkon, přesto europoslance nezískali. V Libereckém kraji se podařilo dosáhnout vynikajícího výsledku 14,92 %, což představuje 2. místo za ANO a před koalicí STAN-TOP09 a celorepublikově 3. nejlepší výsledek mezi Piráty z jiných krajů. Tento zisk hlasů znamená nárůst o 3,5 procentních bodů proti roku 2017.*
 

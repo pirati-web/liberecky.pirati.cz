@@ -9,6 +9,7 @@ img: people/marek-forster.jpg   # 165 x 220
 description: OSVČ, vývojář internetových a databázových aplikací, DJ a producent, pilot. Čtvrtý místopředseda krajského sdružení.           	# kratký popis, max 160 znaků
 mail:
 - marek.forster@pirati.cz
+mob: +420 775 688 305
 profiles:
   twitter: https://twitter.com/madbeyk
 ordpsp: 7
@@ -36,18 +37,18 @@ motto: ["Nic není důležitější než svoboda.", "Ernest Hemingway, americký
 ---
 
 Marek se narodil 4. července 1976 ve Frýdlantu v Čechách. Od malička žil v Desné v Jizerských horách, chodil do školy v Jablonci nad Nisou, studoval eletrotechniku v Liberci a Praze.
-V Praze poté asi 12 let žil, pracoval a podnikal. Na jaře 2011 se vrátil do Jizerek, nyní podniká a žije s přítelkyní Hankou a kocourem Garfieldem v Desné.
+V Praze poté asi 12 let žil, pracoval a podnikal. Na jaře 2011 se vrátil do Jizerek, nyní podniká a žije s přítelkyní Hankou, dcerou Bertou a kocourem Garfieldem v Desné.
 
 Už v útlém věku propadl kouzlu počítačů a programování, což mu zůstalo.
 
 Profesionálně se orientuje na vývoj internetových a databázových aplikací, v poslední době pro dotyková zařízení.
 
-Amatérsky se věnuje sjezdovému lyžování a cyklistice. Ve volném čase koumá nové IT technologie, fotografuje, pilotuje dron, poslouchá a skládá elektronickou hudbu.
+Amatérsky se věnuje sjezdovému lyžování a cyklistice. Ve volném čase koumá nové IT technologie, fotografuje, poslouchá a skládá elektronickou hudbu.
 
 O politiku se začal zajímat zhnusen vývojem politiky v posledních letech a postupnou degradací svobody a demokracie u nás.
 
 Piráti jsou mu srdcem i duší nejbližší, proto se stal v roce 2011 jejich příznivcem a podporovatelem a v roce 2013 právoplatným členem.
-V roce 2014 se stal druhým místopředsedou libereckého krajského sdružení. Na tuto funkci ale v roce 2016 rezignoval, kvůli nedostatku času na své podnikatelské a osobní projekty. V současné době ve straně vykonává funkci vedoucího krajského mediálního odboru.
+V roce 2014 se stal druhým místopředsedou libereckého krajského sdružení. Na tuto funkci ale v roce 2016 rezignoval, kvůli nedostatku času na své podnikatelské a osobní projekty. Od konce roku 2018 je opět čtvrtým místopředsedou krajského sdružení.
 
 
 

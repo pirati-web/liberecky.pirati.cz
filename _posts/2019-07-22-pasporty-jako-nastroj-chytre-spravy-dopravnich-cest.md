@@ -5,7 +5,7 @@ tags: pasporty nástroj správa dopravních cest
 layout: post
 title: Pasporty jako nástroj chytré správy dopravních cest
 author: Václav Židek
-image: /assets/img/posts/2019-07-22-pasporty-jako-nastroj-chytre-spravy-dopravnich-cest.jpg
+image: posts/2019-07-22-pasporty-jako-nastroj-chytre-spravy-dopravnich-cest.jpg
 ---
 Pasport místních komunikací je základní evidencí místních komunikací. Jedná se o evidenci údajů ke každé komunikaci, která sleduje délku a šířku komunikace, druh povrchu komunikace, její stav a další údaje k její údržbě. V ideálním případě je součástí pasportu i informace o technologickém zhotovení komunikace a informace o termínu a rozsahu předpokládané rekonstrukce, časové a finanční náročnosti při drobné i generální rekonstrukci. 
 
@@ -20,11 +20,11 @@ Výsledkem této správy je pak vyhrocení vztahů mezi obcemi a krajem, jako na
 
 Podobně se už od roku 2016 plánuje oprava silnice II/268 od Mimoně k hranici kraje. Tato silnice je střídavě v nevyhovujícím a havarijním stavu, přesto její oprava za 190 mil je stále v nedohlednu, nezačne ani tento rok a kraj každý rok oznamoval její brzkou rekonstrukci. Zatím není ani v plánu 2019 (po neúspěšném výběrovém řízení). 
 
-![Silnice II/268 Mimoň](/assets/img/posts/2019-07-22-pasporty-jako-nastroj-chytre-spravy-dopravnich-cest-2.jpg)
+![Silnice II/268 Mimoň](posts/2019-07-22-pasporty-jako-nastroj-chytre-spravy-dopravnich-cest-2.jpg)
 
 > „Bohužel zatím jsme dodavatele nevybrali, do výběrového řízení nebyla podána žádná nabídka splňující požadavky, takže nelze říci, kdy dojde k zahájení stavebních prací." - Ing. Jan Čáp, vedoucí odboru dopravy (odpověď na dotaz občana Mimoně)
 
-![Silnice II/268 Mimoň](/assets/img/posts/2019-07-22-pasporty-jako-nastroj-chytre-spravy-dopravnich-cest-3.jpg)
+![Silnice II/268 Mimoň](posts/2019-07-22-pasporty-jako-nastroj-chytre-spravy-dopravnich-cest-3.jpg)
 
 Další příklady nebudu ani zmiňovat, dalo by se pokračovat dál a dál. Stačí se podívat na aktuální přehledy stavů silnic v kraji. Důsledně vedená pasportizace by musela již dávno směřovat k řešení situace s dopravou v okolí města Mimoň, místo každoročního odkládání řešení.
 

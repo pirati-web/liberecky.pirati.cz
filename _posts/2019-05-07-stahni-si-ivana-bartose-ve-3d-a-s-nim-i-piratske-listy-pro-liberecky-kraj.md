@@ -6,7 +6,7 @@ layout: post
 title: Stáhni si Ivana Bartoše ve 3D a s ním i Pirátské listy pro Liberecký kraj
 author: Michal Chalupa
 #authorId: katerina.jinova    # uid nekoho z _people (nepoviné)
-image: /assets/img/posts/2019-05-07-stahni-si-ivana-bartose-ve-3d-a-s-nim-i-piratske-listy-pro-liberecky-kraj.jpg
+image: posts/2019-05-07-stahni-si-ivana-bartose-ve-3d-a-s-nim-i-piratske-listy-pro-liberecky-kraj.jpg
 ---
 *Pirátské listy k volbám do Evropského parlamentu vyšly rovnou v 15 regionálních mutacích o celkovém nákladu 735 tisíc kusů. A protože Piráti podporují technologický rozvoj, tak ani s předvolebními tiskovinami nezaostávají, když Pirátské listy nabízejí včetně rozšířené reality.*
 

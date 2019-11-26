@@ -6,7 +6,7 @@ layout: post
 title: Piráti Libereckého kraje volili ve Varšavě 
 author: Kateřina Jínová
 authorId: katerina.jinova    # uid nekoho z _people (nepoviné)
-image: /assets/img/posts/2018-12-01-pirati-libereckeho-kraje-volili-ve-varsave.jpg
+image: posts/2018-12-01-pirati-libereckeho-kraje-volili-ve-varsave.jpg
 ---
 
 První adventní víkend přinesl Pirátům v Libereckém kraji nové předsednictvo, rozšířené ze tří členů na pět. Ale celodenní zasedání Krajského fóra Pirátské strany v libereckém kině Varšava žilo nejen volbou: nabitý program zmapoval současnost i budoucnost strany a aktivitu regionálních týmů.

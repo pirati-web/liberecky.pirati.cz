@@ -1,17 +1,26 @@
 ---
 uid: jaroslav.sida
-name:     Jaroslav Šída  	# běžně používáné jméno
-fullname: Mgr. Jaroslav Šída  	# jméno s tituly etc.
-category:                 	# kategorie: kandidat, pks, zastupitel
-- psp
-img: people/jaroslav-sida.jpg   # 165 x 220
-description: Správce pivovaru Volt, majitel LaKavárny            	# kratký popis, max 160 znaků
+name:     Jaroslav Šída   	# běžně používáné jméno
+fullname: Mgr. Jaroslav Šída   	# jméno s tituly etc.
+titles:
+  before: Mgr.
+category:
+  - clenove
+  - zastupitel
+ordzastupitel: 2
+ordclenove: 1
+description: Právník a podnikatel, zastupitel města Jablonec n.N
+img: people/jaroslav-sida.jpg # zakomentuj radek dokud není fotka
 mail:
-- jaroslav.sida@pirati.cz
-ordpsp: 16
-
+  - jaroslav.sida@pirati.cz
+profiles:
+  facebook: https://www.facebook.com/sida.jaroslav  # pokud nema, staci smazat tuto radku
+  #googleplus: https://plus.google.com/+uzivatel.na.googleplus
+  #twitter: https://twitter.com/uzivatel.na.twitteru
 ---
 
-Mgr. Jaroslav Šída se narodil v roce 1979 a žije v Jablonci nad Nisou.
-Je majitelem LaKavárny v Jablonci nad Nisou, kde spravuje pivovar Volt.
-Má rád francouzské sýry a víno, což doplňuje znalostí fracouzštiny.
+39 let, právník a podnikatel, správce a spolumajitel pivovaru
+
+člen Pirátské strany
+
+otec dvou dětí

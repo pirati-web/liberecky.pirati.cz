@@ -1,69 +1,171 @@
 # Welcome to Jekyll!
 #
+# Toto je soubor s hlavním nastavením. Na začátku je nastavení proměných, které
+# je třeba přispůsobit si pro váš web. Později v anglicky popsané části jsou více
+# technické nastavení
+#
+
+title: Piráti - Liberecký kraj # To co je napsané na tabu ve kterém je stránka.
+email: info@pirati.cz
+description: >-
+  Krajské sdružení Pirátů - Liberecký kraj
+# dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
+keywords: piráti, liberecký kraj, česká pirátská strana, svoboda, demokracie, krajské sdružení, liberec, jablonec, turnov, semily, tanvald, železný brod, nový bor, česká lípa, frýdlant
+
+administrator:
+  email: marek.forster@pirati.cz, vaclav.zidek@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
+
+organization:
+  name: Piráti - Krajské sdružení - Liberecký Kraj
+  shortName: Piráti Liberecký Kraj
+  email: helena.vondrakova@pirati.cz
+  phone: +420 770 113 645
+  address: |
+    Pixel - Pirátské centrum Jablonec n/N
+    Generála Mrázka 413/4 
+    468 01 Jablonec nad Nisou
+  residenceImg:
+  mapLink: https://mapy.cz/zakladni?x=15.1709248&y=50.7244738&z=18&source=firm&id=12829995
+  redmineLink: https://redmine.pirati.cz/projects/liberecky-kraj
+  dataBoxId: b2i4r6j
+  transparentAccount: 2100048174/2010
+
+# Nastavení zobrazení tabulky kontaktů.
+# Lze využít:
+# 1) předdefinované typy (organizationEmail, organizationRedmineLink, organizationPhone, organizationTransparentAccount, organizationDataBox, piratiRootWebsite)
+# 2) vlastní řádky - zde je nutné jako type dát `custom` a vyplnit `label` a `body`
+contactSummaryItems:
+  - type: organizationEmail
+  - type: organizationPhone
+  - type: organizationRedmineLink
+
+calendar:
+  # For nice look of the calendar, make sure you get Google Calendar API key
+  # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
+  # For deployment, contact website administrator to set you env variable.
+  title: Krajský kalendář
+  id: vd0bm8kuaqdhmcjlnp6qj026fc@group.calendar.google.com
+  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=vd0bm8kuaqdhmcjlnp6qj026fc%40group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3
+
+facebook:
+  loadSDK: true
+  #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
+  profilePage: https://www.facebook.com/cpslbc/
+  profilePageName: Česká pirátská strana - Liberecký kraj
+  appId: 1526197851008996
+
+twitter:
+  loadSDK: true
+  profile: PiratiLik
+
+instagram:
+  profilePage: https://www.instagram.com/pirati.cz/
+
+#gplus:
+#  profilePage: https://plus.google.com/u/0/+piratskastrana
+
+flicker:
+  profilePage: https://www.flickr.com/photos/pirati/
+
+forum:
+  page: https://forum.pirati.cz/
+
+github:
+  url: https://github.com/pirati-web/liberecky.pirati.cz
+  branch: gh-pages
+
+#
 # This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.                                                        
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# Site settings
-title: Pirátská strana - Liberecký kraj
-email: marek.forsterto@pirati.cz
-description: > # this means to ignore newlines until "baseurl:"
-  Web oblastního sdružení Liberecký kraj České pirátské strany
-baseurl: "" # the subpath of your site, e.g. /blog
-url: https://liberecky.pirati.cz # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  pirati-web
 
-# Build settings
+sass:
+  style: compressed
+  sass_dir: _sass
+
+theme: jekyll-theme-pirati
+
 markdown: kramdown
-
-gems:
+theme: jekyll-theme-pirati
+plugins:
+  - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-feed
+  - jekyll-environment-variables
 paginate_path: "/aktuality/:num/"
-paginate: 11
+paginate: 12
 
 exclude:
   - readme.md
   - Gemfile
   - Gemfile.lock
+  - vendor
 
-sass:
-    style: compressed
-
-permalink: /tiskove-zpravy/:title.html
+permalink: /aktuality/:title.html
 collections:
   people:
     output: true
     permalink: /lide/:path/
+
   program:
     output: true
-    permalink: /program/:path/
-  teams:
-    output: true
-    permalink: /pripoj-se/:title/
+    permalink: /komunalni-volby/program/:path/
+
+  # Sole purpose is to create candidate lists in separate files.
+  candidatelists:
+    output: false
 
 defaults:   # defaults values for collection scope
   -
     scope:
+      path: "_posts"
+    values:
+      layout: "post"
+  -
+    scope:
       path: "_people"
     values:
-      layout: "member"
-      rbar: "people, foto"
+      layout: "person"
+      rbar:
+        - foto
+        - personContact
+        - people
   -
     scope:
       path: "_program"
     values:
-      layout: "page"
-      rbar: "program"
-  -
-    scope:
-      path: "_teams"
-    values:
-      layout: "team"
-      rbar: "team-summary, teams-toc"
+      layout: "program-post"
+      rbar:
+         - garant
+         - program
 
 emptyArray: []
-exclude: [vendor]
+
+assets:
+  source_maps: true
+  compression: true
+  gzip: false
+  plugins:
+    css: { autoprefixer: {}}
+    img:
+      optim:
+        jpegoptim:
+          strip: all
+          max_quality: 80
+  autoprefixer:
+    browsers:
+      - "last 2 versions"
+      - "IE > 9"
+  sources:
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.5.0/_sass
+    - assets/css
+    - assets/fonts
+    - assets/video
+    - assets/img
+    - _sass

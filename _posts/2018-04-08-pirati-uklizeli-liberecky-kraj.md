@@ -4,7 +4,7 @@ category:     blog
 tags:         ukliďme česko piráti liberecko 
 layout:       post
 title:        "Piráti uklízeli Liberecký kraj" 
-image:        /assets/img/posts/uklidme-cesko-2018.jpg
+image:        posts/uklidme-cesko-2018.jpg
 author:       Ondřej Kolek
 ---
 V rámci celostátní události „Ukliďme Česko“ pomáhali členové a příznivci České pirátské strany se sběrem odpadků napříč Libereckým krajem. Pirátský úklid se konal dokonce v pěti městech – v Jablonci nad Nisou, Liberci, Semilech, Turnově a v Železném Brodě.

@@ -4,7 +4,7 @@ category:     blog
 tags:         krajské fórum liberecký kraj semily 2017 ivan bartoš ondřej kolek tomáš martínek pixel
 layout:       post
 title:        "Piráti plují do Semil" 
-image:        /assets/img/posts/pirati-pluji-do-semil.jpg
+image:        posts/pirati-pluji-do-semil.jpg
 author:       Ondřej Kolek
 ---
 

@@ -3,13 +3,17 @@ uid: katerina.jinova
 name:     Kateřina Jínová  	# běžně používáné jméno
 fullname: Bc. Kateřina Jínová  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
-- psp
+- zastupitel
+- kodo
+- kontaktni_osoba
+ordzastupitel: 1
+ordkodo: 2
 img: people/katerina-jinova.jpg   # 165 x 220
-description: Sklářka, brusička a výtvarnice, dobrovolnice v místní kultuře.            	# kratký popis, max 160 znaků
+description: Sklářka, brusička a výtvarnice, zastupitel města Semily.            	# kratký popis, max 160 znaků
 mail:
 - katerina.jinova@pirati.cz 
-profiles:
-ordpsp: 8
+profiles: 
+- https://www.facebook.com/katerina.jinova.12
 
 supporting:
 - zjednodušení úřadů pomocí technologií

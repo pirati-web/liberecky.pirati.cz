@@ -4,7 +4,7 @@ category:     blog
 tags:         jablonec piráti místní sdružení předsednictvo
 layout:       post
 title:        "Nově zvolené vedení jabloneckých Pirátů je příslibem probuzení zdejší politiky" 
-image:        /assets/img/posts/nove-zvolene-vedeni-jabloneckych-piratu-je-prislibem-probuzeni-zdejsi-politiky.jpg
+image:        posts/nove-zvolene-vedeni-jabloneckych-piratu-je-prislibem-probuzeni-zdejsi-politiky.jpg
 author:       Lukáš Lev Červinka
 ---
 

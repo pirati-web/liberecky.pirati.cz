@@ -4,9 +4,10 @@ name:     Tomáš Martínek  	# běžně používáné jméno
 fullname: Ing. Tomáš Martínek  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - psp
-- zast
+- poslanec
+ordposlanec: 1
 img: people/tomas-martinek.jpg   # 165 x 220
-description: Univerzitní lektor, podnikatel v online marketingu a fakultní systémový integrátor, majitel WebCesky.cz, zastupitel města Česká Lípa za Piráty.            	# kratký popis, max 160 znaků
+description: Univerzitní lektor, podnikatel v online marketingu a fakultní systémový integrátor, majitel WebCesky.cz, poslanec za Piráty.            	# kratký popis, max 160 znaků
 mail:
 - tomas.martinek@pirati.cz 
 profiles:

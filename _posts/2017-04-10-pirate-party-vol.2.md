@@ -4,7 +4,7 @@ category:     blog
 tags:         d-eppl jablonec party pirate
 layout:       post
 title:        "Pirate party vol.2" 
-image:        /assets/img/posts/pirate-party-vol.2.jpg
+image:        posts/pirate-party-vol.2.jpg
 author:       Marek Förster
 ---
 

@@ -6,7 +6,7 @@ layout: post
 title: Piráti obsadí liberecké kino Varšava 
 author: Kateřina Jínová
 authorId: katerina.jinova    # uid nekoho z _people (nepoviné)
-image: /assets/img/posts/2018-11-27-pirati-obsadi-liberecke-kino-varsava.jpg
+image: posts/2018-11-27-pirati-obsadi-liberecke-kino-varsava.jpg
 ---
 
 Po roce se opět blíží zasedání krajského fóra Pirátů. Tentokrát si pro pořádání schůze Piráti vybrali liberecké kino Varšava. V sobotu 1. prosince od 9:00 začne program nejen pro členy Pirátské strany, ale také pro příznivce i širokou veřejnost.

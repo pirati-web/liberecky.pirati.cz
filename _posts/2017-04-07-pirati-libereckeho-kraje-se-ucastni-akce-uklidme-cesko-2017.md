@@ -4,7 +4,7 @@ category:     blog
 tags:         ukliďme česko jablonec liberec turnov
 layout:       post
 title:        "Piráti Libereckého kraje se účastní akce Ukliďme Česko 2017" 
-image:        /assets/img/posts/pirati-libereckeho-kraje-se-ucastni-akce-uklidme-cesko-2017.jpg
+image:        posts/pirati-libereckeho-kraje-se-ucastni-akce-uklidme-cesko-2017.jpg
 author:       Marek Förster
 ---
 

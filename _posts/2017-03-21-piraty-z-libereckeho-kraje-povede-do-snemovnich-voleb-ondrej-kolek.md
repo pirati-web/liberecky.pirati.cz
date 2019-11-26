@@ -4,7 +4,7 @@ category:     blog
 tags:         ondřej kolek leader parlament volby liberecký kraj
 layout:       post
 title:        "Piráty z Libereckého kraje povede do sněmovních voleb Ing. Ondřej Kolek Ph.D." 
-image:        /assets/img/posts/piraty-z-libereckeho-kraje-povede-do-snemovnich-voleb-ondrej-kolek.jpg
+image:        posts/piraty-z-libereckeho-kraje-povede-do-snemovnich-voleb-ondrej-kolek.jpg
 author:       Marek Förster
 ---
 

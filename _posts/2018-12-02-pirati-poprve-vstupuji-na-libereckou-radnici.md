@@ -6,7 +6,7 @@ layout: post
 title: Piráti poprvé vstupují na libereckou radnici 
 author: Kateřina Jínová
 authorId: katerina.jinova    # uid nekoho z _people (nepoviné)
-image: /assets/img/posts/2018-12-02-pirati-poprve-vstupuji-na-libereckou-radnici.jpg
+image: posts/2018-12-02-pirati-poprve-vstupuji-na-libereckou-radnici.jpg
 ---
 
 Piráti, kteří svou kandidátku pro letošní komunální volby v Liberci nepostavili, nyní zahajují své tažení libereckou politikou. Čtvrteční zastupitelstvo totiž za členku kontrolního výboru zvolilo [Janu Schlegelovou](https://www.facebook.com/jana.schlegelova), členku a zástupkyni České pirátské strany.

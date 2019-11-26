@@ -4,7 +4,7 @@ category:     blog
 tags:         jablonec piráti projekt volnočasové aktivity děti mládež
 layout:       post
 title:        "Piráti v Jablonci spustili pilotní projekt volnočasových aktivit pro děti a mládež" 
-image:        /assets/img/posts/pirati-v-jablonci-spustili-pilotni-projekt-volnocasovych-aktivit-pro-deti-a-mladez.jpg
+image:        posts/pirati-v-jablonci-spustili-pilotni-projekt-volnocasovych-aktivit-pro-deti-a-mladez.jpg
 author:       Lukáš Lev Červinka
 ---
 

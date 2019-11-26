@@ -4,7 +4,7 @@ category:     blog
 tags:         vrbová stavba jablonec rtv reportáž
 layout:       post
 title:        "Natáčení pro RTV o plánované vrbové stavbě" 
-image:        /assets/img/posts/nataceni-pro-rtv-o-planovane-vrbove-stavbe.jpg
+image:        posts/nataceni-pro-rtv-o-planovane-vrbove-stavbe.jpg
 author:       Marek Förster
 ---
 

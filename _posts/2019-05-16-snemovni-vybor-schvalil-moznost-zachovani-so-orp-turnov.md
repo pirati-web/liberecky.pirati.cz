@@ -5,7 +5,7 @@ tags: zachování so orp turnov regionální rozvoj
 layout: post
 title: Sněmovní výbor schválil možnost zachování SO ORP Turnov
 author: Michal Chalupa
-image: /assets/img/posts/2019-05-16-snemovni-vybor-schvalil-moznost-zachovani-so-orp-turnov.jpg
+image: posts/2019-05-16-snemovni-vybor-schvalil-moznost-zachovani-so-orp-turnov.jpg
 ---
 *Výbor pro veřejnou správu a regionální rozvoj Poslanecké sněmovny ČR schválil na dnešním jednání pozměňovací návrh a doprovodné usnesení k sněmovnímu tisku o územně správním členění státu, které umožní zachovat příslušnost obcí ke Správnímu obvodu obce s rozšířenou působností Turnov (SO ORP Turnov). Díky tomu budou moci tisíce občanů z libereckého a jabloneckého okresu vyřizovat administrativní záležitosti nadále v Turnově, který je pro ně nejbližší obcí s rozšířenou působností.*
 

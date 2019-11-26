@@ -3,16 +3,16 @@ uid: jan.tempel
 name:     Jan Tempel  	# běžně používáné jméno
 fullname: Jan Tempel  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
-- psp
 - pks
+- zastupitel
+ordzastupitel: 1
+ordpks: 2
 img: people/jan-tempel.jpg   # 165 x 220
-description: IT specialista, pořadatel kulturních akcí, železnobrodský zastupitel a první místopředseda krajského sdružení libereckého kraje.            	# kratký popis, max 160 znaků
+description: IT specialista, pořadatel kulturních akcí, zastupitel města Železný Brod. První místopředseda krajského sdružení libereckého kraje.            	# kratký popis, max 160 znaků
 mail:
 - jan.tempel@pirati.cz
 profiles:
   facebook: https://www.facebook.com/jan.tempel
-ordpsp: 10
-ordpks: 2
 
 supporting:
 - Zjednodušení a elektronizaci státní správy a úřadů
@@ -33,9 +33,14 @@ notsupporting:
 motto: ["Tož demokracii bychom už měli, teď ještě nějaké ty demokraty.", "Tomáš Garrigue Masaryk"]
 
 ---
+Jan Tempel (* 2. března 1994) je členem Pirátské strany, při KS LiK. Jan pochází z Pipic a od roku 1996 žije v Železném Brodě.
 
-Jan pochází z Pipic, od roku 1996 žije trvale v Železném Brodě. Po absolvování Integrované střední školy v Nové Pace, v oboru Mechanik Elektrotechnik, se zaměřením na výpočetní techniku, jsem začal pracovat v IT.
+Vystudoval Integrovanou střední školu v Nové Pace, v oboru Mechanik Elektrotechnik. V průběhu studia se specializoval na výpočetní techniku.
 
-Od 18 let se zapojuji do pořádání kulturních akcí v Brodě i okolí, díky čemuž mě zasáhla buzerace ze strany státu i místních samospráv. Několik let házení klacků pod nohy mne přivedlo do České pirátské strany, kde chci bojovat proti přebujelým státním aparátům, výpalného od OSA, nedostatečné podpoře kultury, cenzuře internetu apod.
+Od roku 2014 pracuje v IT, nejprve ve firmě ISTT (servisní technik), posléze v BusLine, jakožto specialista helpdesk.
 
-Vedle hudby a politiky jsou mými dalšími zájmy historie, jazyky a technika (hlavně IT).
+Mezi jeho největší záliby patří hudba, historie, technika (primárně IT), politika, jazyky a samozřejmě Piráti.
+
+Jeho oblíbeným citátem je: „Tož demokracii bychom už měli, teď ještě nějaké ty demokraty“ od TGM.
+
+V roce 2017 kandidoval do Poslanecké sněmovny jako desítka v Libereckém kraji a získal 214 preferenčních hlasů. V roce 2018 byl zvolen lídrem pro podzimní komunální volby v Železném Brodě.

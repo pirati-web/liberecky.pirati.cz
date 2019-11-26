@@ -6,7 +6,7 @@ layout: post
 title: Trochu oprášit kabát jarní přírodě 
 author: Kateřina Jínová
 #authorId: katerina.jinova    # uid nekoho z _people (nepoviné)
-image: /assets/img/posts/2019-04-14-trosku-oprasit-kabat-jarni-prirode.jpg
+image: posts/2019-04-14-trosku-oprasit-kabat-jarni-prirode.jpg
 ---
 Ve slunečném počasí prvního dubnového víkendu proběhla celorepubliková akce Ukliďme Česko, ke které se připojili také Piráti Libereckého kraje. V šesti lokalitách (Liberec, Jablonec, Železný Brod, Semily, Turnov, Hodkovice nad Mohelkou, region Podralsko) se pirátských úklidových akcí zúčastnilo dohromady 64 dospělých a 26 dětí v doprovodu 9 psích přátel.
 

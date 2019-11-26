@@ -6,7 +6,7 @@ layout: post
 title: Reakce na článek Petra Židka 
 author: Pavel Felgr, Václav Balšánek
 #authorId: katerina.jinova    # uid nekoho z _people (nepoviné)
-image: /assets/img/posts/2019-03-25-reakce-na-clanek-petra-zidka.jpg
+image: posts/2019-03-25-reakce-na-clanek-petra-zidka.jpg
 ---
 
 Petr Židek (ODS) ve [svém článku](https://www.libereckezpravy.cz/liberecke-bazeny-korytar-a-jeho-kolegove-na-frantiskove-neudelali-nic-petr-zidek) o stavu bazénu v ZŠ Švermova uvedl několik věcí, které je nutno uvést na pravou míru. Takže – pojďme se podívat na fakta, která budou jistě zajímavá.

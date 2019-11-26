@@ -4,7 +4,7 @@ category:     blog
 tags:         volby společnost úvaha 
 layout:       post
 title:        "Itálie po česku, aneb proč se nesnášíme" 
-image:        /assets/img/posts/italie-po-cesku-aneb-proc-se-nesnasime.jpg
+image:        posts/italie-po-cesku-aneb-proc-se-nesnasime.jpg
 author:       Ondřej Kolek
 ---
 Dnešní česká společnost je rozdělena. Je doslova rozpůlena na dva nesmiřitelné tábory, pominu-li ty, které veřejné dění vůbec nezajímá. Proč tomu tak je? Proč se navzájem nesnášíme a jeden tábor emotivně napadá ten druhý v pokleslých debatách, které se blíží spíš pokřiku tvrdých jader fanoušků. Je z toho zmatku cesta ven?

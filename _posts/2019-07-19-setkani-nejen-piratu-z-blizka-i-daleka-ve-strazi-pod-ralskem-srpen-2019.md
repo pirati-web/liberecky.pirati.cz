@@ -5,17 +5,17 @@ tags: setkání stráž pod ralskem
 layout: post
 title: 1. setkání (nejen) Pirátů z blízka i daleka ve Stráži pod Ralskem 10. - 11. 8. 2019
 author: Václav Židek
-image: /assets/img/posts/2019-07-19-setkani-nejen-piratu-z-blizka-i-daleka-ve-strazi-pod-ralskem-srpen-2019.jpg
+image: posts/2019-07-19-setkani-nejen-piratu-z-blizka-i-daleka-ve-strazi-pod-ralskem-srpen-2019.jpg
 ---
 Již klepe na dveře první ročník setkání pirátských členů, příznivců a podporovatelů, poprvé ve Stráži pod Ralskem. Zde budeme mít možnost diskutovat o různých tématech a trávit čas aktivním odpočinkem společně s pirátskými poslanci Františkem Navrkalem a Tomášem Martínkem. Vítáni jsou všichni z daleka i blízka.
 
 Ve městě je zavedené Infocentrum a v sobotu bude otevřené od 9:00 h do 12:00 h pro koupi upomínkových předmětů, map a pohledů. A co může účastníkům nabídnout návštěva města Stráž pod Ralskem? Zde cituji cestovatele Rosťu Křivánka: „Stráž pod Ralskem není úplně jednoduché si zamilovat. První setkání bývá jako rána mezi oči a člověk má výraznou tendenci sbalit se a prchnout. No, však uvidíte sami…..Pro poctivého hledače krásy, kde ji jiní nevidí, ovšem nemůže být ideálnější místo. Chce to jediné - jistou zarputilost….Mě nedostanete, mě neodpudíte... A skutečně stačí vyběhnout na malé návrší nad městem - a defilé dobře utajené krásy začíná. Račte mě, prosím, následovat.“ 
 
-![Stráž pod Ralskem](/assets/img/posts/2019-07-19-setkani-nejen-piratu-z-blizka-i-daleka-ve-strazi-pod-ralskem-srpen-2019-2.jpg)
+![Stráž pod Ralskem](posts/2019-07-19-setkani-nejen-piratu-z-blizka-i-daleka-ve-strazi-pod-ralskem-srpen-2019-2.jpg)
 
 Stráž pod Ralskem je navzdory prvnímu dojmu cestovatele Rosti Křivánka velmi zajímavým městečkem s obrovským potenciálem – mimo jiné v letošním roce v soutěži Vesnice roku získalo zvláštní ocenění komise za rozvoj cestovního ruchu a zlatou cihlu v Programu obnovy venkova za příkladné stavby na venkově, realizované v duchu Programu obnovy Venkova za zámek Vartenberk.
 
-![Stráž pod Ralskem](/assets/img/posts/2019-07-19-setkani-nejen-piratu-z-blizka-i-daleka-ve-strazi-pod-ralskem-srpen-2019-3.jpg)
+![Stráž pod Ralskem](posts/2019-07-19-setkani-nejen-piratu-z-blizka-i-daleka-ve-strazi-pod-ralskem-srpen-2019-3.jpg)
 
 Pokud Vám nebude vyhovovat společný program (níže uvedený), je ve městě řada krásných míst a zákoutí, velká i malá pláž Horeckého rybníka láká k relaxaci u vody. Aktivní návštěvník využije pro své toulky na kole nebo bruslích místní cyklostezku vedoucí podél hráze rybníka až do blízkého Hamru na Jezeře, případně na druhou stranu do Novin pod Ralskem podívat se na Průrvu Ploučnice. Vyhlášená zmrzlinárna přestěhovala sice svou základnu do blízké Mimoně, nicméně i ve Stráži její provozovna zůstala otevřená a lze zde ochutnat velké množství druhů proslavené zmrzliny.
 
