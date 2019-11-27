@@ -5,9 +5,11 @@ fullname: Helena Vondráková  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - kodo
 - kontaktni_osoba
+- zastupitel_ostatni
+ordzastupitel: 2
 ordkodo: 1
 img: people/helena-vondrakova.jpg           # 165 x 220
-description: Koordinátor dobrovolníků pro Liberecký kraj # kratký popis, max 160 znaků
+description: Koordinátor dobrovolníků pro Liberecký kraj a zastupitel obce Pulečný
 mail:
 - helena.vondrakova@pirati.cz
 mob: 77O 113 645
