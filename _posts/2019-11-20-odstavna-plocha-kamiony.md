@@ -14,7 +14,7 @@ Nabízí se otázka, proč tedy nepřeložit náklad na železnici? Možná Vás
 
 Zvýšení kapacity železnice je na dlouhou dobu realizace, zde může být přínosem VRT (vysokorychlostní trať), která přinese „koleje“ navíc a také zvýšená rychlost souprav znamená větší frekvenci vlakových souprav. Nákup lokomotiv je sice časově přijatelnější, ale některé tratě již nemají kapacitu na další vlakové soupravy. V neposlední řade není dostatek strojvedoucích a v blízké době bude velká část odcházet do důchodu.
 
-![Infografika](https://liberecky.pirati.cz/assets/img/posts/2019-11-20-infografika.png)
+![Infografika](/assets/img/posts/2019-11-20-infografika.png)
 
 Při řešení této situace lze využít moderní technologie i tzv. brownfieldy, tedy plochy, které nemají dlouhodobě využití a kdysi sloužily průmyslu či zemědělství.
 
@@ -28,4 +28,4 @@ Pokud již uvedené doplníme inteligentním systémem monitoringu parkovacích 
 
 Na „likvidaci“ brownfieldu byly v minulosti vypsány dotační programy, které by k takové realizaci bylo možné využít. Kraj by zde měl fungovat jako prostředník pro menší obce a pomoci jim s rozsáhlou administrativou, jež se k tom váže. Opět musím říct, kraj by měl sloužit jako partner obcím i státu, nikoliv být samostatnou složkou řešící jen věci ve své územní správě. Kraj propojuje obce a nejen obce na svém území, je nezbytné spolupracovat mezi kraji a i na hranicích kraje poskytovat stejné služby občanům jako v centrech kraje, pokud to je alespoň trochu možné.
 
-![Václav Židek](https://liberecky.pirati.cz/assets/img/posts/2019-11-20-ZIDEK.JPG)
+![Václav Židek](/assets/img/posts/2019-11-20-zidek.jpg)
