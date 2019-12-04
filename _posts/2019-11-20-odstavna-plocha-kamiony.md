@@ -28,4 +28,4 @@ Pokud již uvedené doplníme inteligentním systémem monitoringu parkovacích 
 
 Na „likvidaci“ brownfieldu byly v minulosti vypsány dotační programy, které by k takové realizaci bylo možné využít. Kraj by zde měl fungovat jako prostředník pro menší obce a pomoci jim s rozsáhlou administrativou, jež se k tom váže. Opět musím říct, kraj by měl sloužit jako partner obcím i státu, nikoliv být samostatnou složkou řešící jen věci ve své územní správě. Kraj propojuje obce a nejen obce na svém území, je nezbytné spolupracovat mezi kraji a i na hranicích kraje poskytovat stejné služby občanům jako v centrech kraje, pokud to je alespoň trochu možné.
 
-![Václav Židek](https://liberecky.pirati.cz/assets/img/posts/2019-11-20-zidek.jpg)
+![Václav Židek](https://liberecky.pirati.cz/assets/img/posts/2019-11-20-ZIDEK.JPG)
