@@ -3,7 +3,7 @@ date:         2019-11-20
 category:     blog
 tags:         Liberecky kraj doprava
 layout:       post
-title:        "Odstavné plochy po kamiony vs. brownfieldy" 
+title:        "Odstavné plochy pro kamiony vs. brownfieldy" 
 image:        posts/2019-11-20-brownfield.jpg
 author:       Václav Židek
 ---
