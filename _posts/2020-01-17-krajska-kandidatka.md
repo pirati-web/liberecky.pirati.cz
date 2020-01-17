@@ -12,10 +12,10 @@ image: posts/2020-01-17-libkrajtop5.png
 Jablonec n/Nisou, 16. ledna 2020 - **Piráti se po celostátním fóru strany v Ostravě soustředí na blížící se podzimní krajské volby, v nichž chtějí uspět také v Libereckém kraji.** 
 
 
-Z hlasování vzešlo deset kandidátů jejichž lídrem se stal turnovský radní, specialista a školitel v oblasti veřejných zakázek Zbyněk Miklík.
+Z hlasování zatím vzešlo deset kandidátů jejichž lídrem se stal turnovský radní, specialista a školitel v oblasti veřejných zakázek Zbyněk Miklík.
 
 
-Kompletní kandidátní listina vypadá takto: 
+Kandidátní listina aktuálně vypadá takto (další místa budou obsazeny následnou volbou): 
 
 1. Zbyněk Miklík, 
 2. Václav Židek
