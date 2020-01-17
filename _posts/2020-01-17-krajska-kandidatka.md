@@ -6,7 +6,7 @@ layout: post
 title: Piráti si zvolili kandidáty do krajských voleb v Libereckém kraji, lídrem je Zbyněk Miklík
 author: Michal Chalupa
 authorId: michal.chalupa
-image: posts/2020-01-17-libkrajtop05.png
+image: posts/2020-01-17-libkrajtop5.png
 ---
 
 Jablonec n/Nisou, 16. ledna 2020 - **Piráti se po celostátním fóru strany v Ostravě soustředí na blížící se podzimní krajské volby, v nichž chtějí uspět také v Libereckém kraji.** 
