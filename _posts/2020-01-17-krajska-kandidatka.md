@@ -9,7 +9,7 @@ authorId: michal.chalupa
 image: posts/2020-01-17-libkrajtop05.png
 ---
 
-Jablonec n/Nisou, 16. ledna 2020 - Piráti se po celostátním fóru strany v Ostravě soustředí na blížící se podzimní krajské volby, v nichž chtějí uspět také v Libereckém kraji. 
+Jablonec n/Nisou, 16. ledna 2020 - **Piráti se po celostátním fóru strany v Ostravě soustředí na blížící se podzimní krajské volby, v nichž chtějí uspět také v Libereckém kraji.** 
 
 
 Z hlasování vzešlo deset kandidátů jejichž lídrem se stal turnovský radní a softwarový specialista Zbyněk Miklík.
@@ -54,4 +54,4 @@ Jablonecká zastupitelka **Jarmila Valešová** (1982) je ekonomka a podnikatelk
 
 
 V případě jakýchkoliv dotazů, žádostí o rozhovor a podobně, se neváhejte obrátit na krajský mediální odbor Pirátů.
-Michal Chalupa - 
+Michal Chalupa - michal.chalupa@pirati.cz 
