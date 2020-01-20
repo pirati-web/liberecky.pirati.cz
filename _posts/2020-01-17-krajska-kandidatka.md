@@ -1,23 +1,19 @@
 ---
 date: 2020-01-17
 category: blog
-tags: Liberecký kraj volby 2020  
+tags: Liberecký kraj volby kandidátka 2020  
 layout: post
 title: Piráti si zvolili kandidáty do krajských voleb v Libereckém kraji, lídrem je Zbyněk Miklík
 author: Michal Chalupa
-authorId: michal.chalupa
+#authorId: michal.chalupa
 image: posts/2020-01-17-libkrajtop5.png
 ---
 
-Jablonec n/Nisou, 16. ledna 2020 - **Piráti se po celostátním fóru strany v Ostravě soustředí na blížící se podzimní krajské volby, v nichž chtějí uspět také v Libereckém kraji.** 
+Piráti se po celostátním fóru strany v Ostravě soustředí na blížící se podzimní krajské volby, v nichž chtějí uspět také v Libereckém kraji. Z hlasování zatím vzešlo deset kandidátů jejichž lídrem se stal turnovský radní, specialista a školitel v oblasti veřejných zakázek Zbyněk Miklík.
 
+**Kandidátní listina aktuálně vypadá takto:** 
 
-Z hlasování zatím vzešlo deset kandidátů jejichž lídrem se stal turnovský radní, specialista a školitel v oblasti veřejných zakázek Zbyněk Miklík.
-
-
-Kandidátní listina aktuálně vypadá takto (další místa budou obsazeny následnou volbou): 
-
-1. Zbyněk Miklík, 
+1. Zbyněk Miklík 
 2. Václav Židek
 3. Jarmila Valešová
 4. Jan Tempel
@@ -27,9 +23,10 @@ Kandidátní listina aktuálně vypadá takto (další místa budou obsazeny ná
 8. Ondřej Novosad
 9. Helena Vondráková
 10. Petr Vyhnal
+ 
+(další místa budou obsazeny následnou volbou koncem ledna 2020)
 
-
-**První pětka kandidátské listiny pro krajské volby 2020 v Libereckém kraji**
+### První pětka kandidátské listiny pro krajské volby 2020 v Libereckém kraji
 
 ![Zbyněk Miklík](/assets/img/posts/miklik.png)
 
@@ -52,6 +49,6 @@ Jablonecká zastupitelka **Jarmila Valešová** (1982) je ekonomka a podnikatelk
 **Daniela Weissová** (1961) je pirátskou zastupitelkou v Turnově, kde působí ve čtyřech komisích Rady města. Současně pracuje jako dramaturg KC Turnov. Původní profesí je pedagog, byla knihovnicí, později první mluvčí svobodného Městského úřadu Turnov a také podnikala. K Pirátům se přidala v roce 2014 s tím, že politika se dá dělat i jinak. Jako svá hlavní témata vidí otázky svobody, vzdělání, kultury a sociální problematiky. Věří, že s jejich realizací jde ruku v ruce i úroveň společnosti, její morálka, hodnoty a lidství. Daniela byla oceněna Medailí starosty města Turnova za přínos demokracii. Je aktivní v mnoha oblastech veřejného života, podílela se na petici o zamezení vzniku nové obchvatné komunikace přes turnovská Luka, pravidelně pořádá mítinky u příležitosti voleb nebo výročí 17. Listopadu. Dělá radost nemocným dětem jako Zdravotní klaun, je herečkou alternativního divadla Čmukaři, působí jako lektorka a porotkyně. V České pirátské straně je 3. místopředsedkyní PKS Libereckého kraje.
 
 
-
 V případě jakýchkoliv dotazů, žádostí o rozhovor a podobně, se neváhejte obrátit na krajský mediální odbor Pirátů.
+
 Michal Chalupa - michal.chalupa@pirati.cz 
