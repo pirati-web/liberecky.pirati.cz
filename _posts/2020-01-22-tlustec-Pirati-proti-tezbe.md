@@ -4,8 +4,8 @@ category: blog
 tags: Liberecký kraj Tlustec Luhov těžba  
 layout: post
 title: Piráti se staví proti těžbě čediče na Tlustci, zapojili své poslance a iniciují novou expertízu
-author: Michal Chalupa
-#authorId: michal.chalupa
+author: Václav Židek
+#authorId: vaclav.zidek
 image: posts/2020-01-22-bagr.jpg
 ---
 
