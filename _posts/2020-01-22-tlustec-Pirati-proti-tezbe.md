@@ -9,7 +9,7 @@ author: Václav Židek
 image: posts/2020-01-22-bagr.jpg
 ---
 
-Jablonec n/Nisou, 22. 1. 2020 - Otázka těžby čediče na Tlustci se dostala do mezní fáze. Celosvětově rapidně ubývá chráněných živočišných a rostlinných druhů, tím spíšeje podivné udělení výjimky z ochrany ohrožených druhů na Tlustci, které je údajně založeno na veřejném zájmu, převyšujícím důvody ochrany. Nejen Piráti ovšem profit soukromé firmy za veřejný zájem nepovažují. Do kauzy sporu o těžbu na Tlustci se tak rozhodli vedle stávajících aktivních jednotlivců a organizací vložit také dopravní expert Pirátů v Libereckém kraji Václav Židek a pirátští poslanci Dana Balcarová a Tomáš Martínek.
+Liberec, 22. 1. 2020 - Otázka těžby čediče na Tlustci se dostala do mezní fáze. Celosvětově rapidně ubývá chráněných živočišných a rostlinných druhů, tím spíšeje podivné udělení výjimky z ochrany ohrožených druhů na Tlustci, které je údajně založeno na veřejném zájmu, převyšujícím důvody ochrany. Nejen Piráti ovšem profit soukromé firmy za veřejný zájem nepovažují. Do kauzy sporu o těžbu na Tlustci se tak rozhodli vedle stávajících aktivních jednotlivců a organizací vložit také dopravní expert Pirátů v Libereckém kraji Václav Židek a pirátští poslanci Dana Balcarová a Tomáš Martínek.
 
 Těžbu čediče na Tlustci v minulosti provázela řada komplikací. Například poškození nemovitostí v okolních obcích, hlučnost, prašnost a v neposlední řadě narušení ochrany zvláště chráněných druhů živočichů a rostlin. Oblast Tlustce (86 ha) byla v roce 2017 dokonce navržena na vyhlášení přírodní rezervace. Návrh byl však odborem životního prostředí a zemědělství Krajského úřadu Libereckého kraje odmítnut s informací, že není plánováno vyhlásit maloplošné zvláště chráněné území v žádné části kopce Tlustec a jeho priority jsou v daném období (2013 - 2020) jiné.
 
@@ -20,14 +20,13 @@ Těžbu čediče na Tlustci v minulosti provázela řada komplikací. Napříkla
 ![Zbyněk Miklík](/assets/img/posts/2020-01-22-tlustecsposlancem.jpg)
 
 Stále platí, že na tomto kopci žijí desítky druhů chráněných živočichů a roste nespočet chráněných rostlin, které budou dotčeny hornickou činností. Pro příklad několik z nich, které jsou zvláště chráněné:
-
 vrápenec malý (Rhinolophus hipposideros), netopýr velký (Myotis myotis), netopýr černý (Barbastella barbastellus). V kategorii silně ohrožených jsou: ještěrka obecná (Lacerta agilis), ještěrka živorodá (Lacerta vivipara), slepýš křehký (Anguis fragilis), holub doupňák (Columba oenas), netopýři (Microchiroptera). V kategorii ohrožených se na Tlustci vyskytují: svižník (Cicindela campestris), ropucha obecná (Bufo bufo), lejsek šedý (Muscicapa striata), ťuhýk obecný (Lanius collurio), čmelák (Bombus spp.), lilie zlatohlávek (Lilium martagon).
 
 Toto je „nový seznam druhů“, tedy 13. V žádosti z roku 2012 jich bylo dokonce 37. Piráti chtějí zajistit vytvoření oponentní expertízy, která určí, jaká je realita.
 
 To, co dříve nebylo pro úřad správně, dnes správně je. Předpokladem pro změnu může být několik faktorů, například změna postoje zastupitelstva obce Brniště, případně již zmíněný dramaticky zkrácený seznam chráněných druhů.
 
-“S poslankyní a předsedkyní sněmovního Výboru pro životní prostředí Danou Balcarovou a její týmem pracujeme na zastavení těžby a pokračování ochrany zvláště chráněných druhů na kopci Tlustec. V současnosti je evidentní, že veřejný zájem aktuálně nepřevyšuje potřebnou ochranu ohrožených druhů. Nebo vidíte někde stavební přípravy dlouho slíbeného obchvatu České Lípy a Nového Boru, obchvatu Mimoně, obchvatu Turnova, nebo zahájení stavby nové trasy železnice k Mladé Boleslavi?,” doplňuje a zároveň se ptá Židek.
+_“S poslankyní a předsedkyní sněmovního Výboru pro životní prostředí Danou Balcarovou a její týmem pracujeme na zastavení těžby a pokračování ochrany zvláště chráněných druhů na kopci Tlustec. V současnosti je evidentní, že veřejný zájem aktuálně nepřevyšuje potřebnou ochranu ohrožených druhů. Nebo vidíte někde stavební přípravy dlouho slíbeného obchvatu České Lípy a Nového Boru, obchvatu Mimoně, obchvatu Turnova, nebo zahájení stavby nové trasy železnice k Mladé Boleslavi?,” doplňuje a zároveň se ptá Židek._
 
 Posouzení udělení výjimky z ochrany ohrožených druhů je založeno na veřejném zájmu, který může převyšovat důvody ochrany. Podívejme se tedy na tento veřejný zájem, jak je popsán v rozhodnutí krajského úřadu:
 
