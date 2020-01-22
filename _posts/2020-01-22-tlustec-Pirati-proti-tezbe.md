@@ -39,8 +39,6 @@ V rozhodnutí se tedy dočteme, že těžit se musí, protože je potřeba budov
 
 Ještě by se dala akceptovat stavba nové železnice, kdy by na oplátku došlo ke snížení emisí z individuální dopravy.  Ale v případě těžby a přepravy kamene na stavby mimo dopravní projekty - v Libereckém kraji aktuálně žádný velký není zahájen, ani se k tomu neblíží - jde evidentně o devastaci krajiny bez potřebné protihodnoty. Dojde k odtěžení podstatné části kopce, produkci spalin při dopravě kamene, vibracím, zvýšené prašnosti a hluku. Na oplátku bude jen zisk firem zapojených do prodeje strategické suroviny,” komentuje situaci Pirát Václav Židek.
 
-[dokumentaci](http://daringfireball.net/projects/markdown/syntax)
-
 Zároveň bychom chtěli poděkovat spolkům a obcím co dosud pomohly kopec Tlustec chránit:
 - Sdružení pro záchranu kopce Tlustce z.s.
 - [Společnosti pro trvale udržitelný život](https://stuz.cz/)
