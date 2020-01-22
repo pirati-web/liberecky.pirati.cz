@@ -50,4 +50,4 @@ Zároveň bychom chtěli poděkovat spolkům a obcím co dosud pomohly kopec Tlu
 - [Občanskému sdružení Vulpes Polar](https://vulpespolar.estranky.cz/clanky/kdo-jsme-a-o-co-nam-jde.html)
 - [Obci Velký Valtinov](https://www.velkyvaltinov.cz/)
 - [Městu Jablonné v Podještědí](https://www.jablonnevp.cz/)
-a části zastupitelů obce [Brniště](https://brniste.cz/), která je stále proti těžbě
+- a části zastupitelů obce [Brniště](https://brniste.cz/), která je stále proti těžbě
