@@ -4,15 +4,17 @@ name:     Helena Vondráková      	# běžně používáné jméno
 fullname: Helena Vondráková  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - kodo
+- pks
 - kontaktni_osoba
 - zastupitel_ostatni
 ordzastupitel: 2
 ordkodo: 1
+ordpks: 3
 img: people/helena-vondrakova.jpg           # 165 x 220
-description: Koordinátor dobrovolníků pro Liberecký kraj a zastupitel obce Pulečný
+description: Druhá místopředsedkyně krajského sdružení libereckého kraje a zastupitelka obce Pulečný.
 mail:
 - helena.vondrakova@pirati.cz
-mob: 77O 113 645
+mob: +420 770 113 645
 profiles:
   github:
   facebook: https://www.facebook.com/helena.sirinova

@@ -4,7 +4,6 @@ name:     Petr Vyhnal  	# běžně používáné jméno
 fullname: Bc. Petr Vyhnal  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - psp
-- pks
 img: people/petr-vyhnal.jpg   # 165 x 220
 description: IT specialista v oblasti bezpečnosti ITC, CISSP. Otec dvou dětí. Druhý místopředseda krajského sdružení libereckého kraje.            	# kratký popis, max 160 znaků
 mail:
@@ -14,7 +13,6 @@ profiles:
   facebook: https://www.facebook.com/rudiik
   jabber:  rudiik@simerion.net
 ordpsp: 4
-ordpks: 3
 
 supporting:
 - Průhledné hospodaření státu

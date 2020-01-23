@@ -4,8 +4,6 @@ name:     Kateřina Jínová  	# běžně používáné jméno
 fullname: Bc. Kateřina Jínová  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - zastupitel
-- kodo
-- kontaktni_osoba
 - zastupitel_ostatni
 ordzastupitel: 1
 ordkodo: 2
