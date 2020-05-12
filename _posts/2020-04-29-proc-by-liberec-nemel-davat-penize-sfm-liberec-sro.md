@@ -5,6 +5,7 @@ tags: liberec sfm sportpark dotace městské společnosti
 layout: post
 title: Proč by Liberec neměl dávat peníze SFM Liberec s.r.o. 
 author: Pavel Felgr
+authorId: pavel.felgr
 image: posts/2020-04-29-proc-by-liberec-nemel-davat-penize-sfm-liberec-sro.jpg
 ---
 

@@ -5,6 +5,7 @@ tags: liberec soukromé firmy kompenzace koronavirus půjčka městské organiza
 layout: post
 title: Soukromým firmám, které spravují městský majetek, se dá pomoct i jinak než nalitím peněz 
 author: Pavel Felgr
+authorId: pavel.felgr
 image: posts/2020-05-04-soukromym-firmam-ktere-spravuji-mestsky-majetek-se-da-pomoct-i-jinak.jpg
 ---
 
