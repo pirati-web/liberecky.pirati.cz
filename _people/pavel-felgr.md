@@ -1,17 +1,16 @@
 ---
-uid: marek.forster
-name:     Marek Förster  	# běžně používáné jméno
-fullname: Marek Förster  	# jméno s tituly etc.
+uid: pavel.felgr
+name:     Pavel Felgr   	# běžně používáné jméno
+fullname: Pavel Felgr   	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
-- psp
-- pks
+- clen
 img: people/marek-forster.jpg   # 165 x 220
-description: OSVČ, vývojář internetových a databázových aplikací, DJ a producent, pilot. Třetí místopředseda krajského sdružení.           	# kratký popis, max 160 znaků
+description: krajským koordinátor projektu Rekonstrukce státu, tvorba a správa internetových stránek, internetový marketing          	# kratký popis, max 160 znaků
 mail:
-- marek.forster@pirati.cz
-mob: +420 775 688 305
+- pavel.felgr@pirati.cz
+mob: +420 777 585 483
 profiles:
-  twitter: https://twitter.com/madbeyk
+  facebook: https://www.facebook.com/pavel.felgr
 ordpsp: 7
 ordpks: 4
 

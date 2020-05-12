@@ -3,13 +3,11 @@ uid: jan.tempel
 name:     Jan Tempel  	# běžně používáné jméno
 fullname: Jan Tempel  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
-- pks
 - zastupitel
 - zastupitel_ostatni
 ordzastupitel: 1
-ordpks: 2
 img: people/jan-tempel.jpg   # 165 x 220
-description: IT specialista, pořadatel kulturních akcí, zastupitel města Železný Brod. První místopředseda krajského sdružení libereckého kraje.            	# kratký popis, max 160 znaků
+description: IT specialista, pořadatel kulturních akcí, zastupitel města Železný Brod.            	# kratký popis, max 160 znaků
 mail:
 - jan.tempel@pirati.cz
 profiles:
