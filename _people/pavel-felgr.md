@@ -4,7 +4,7 @@ name:     Pavel Felgr   	# běžně používáné jméno
 fullname: Pavel Felgr   	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - clen
-img: people/pavel-felgy.jpg   # 165 x 220
+img: people/pavel-felgr.jpg   # 165 x 220
 description: krajský koordinátor projektu Rekonstrukce státu, tvorba a správa internetových stránek, internetový marketing          	# kratký popis, max 160 znaků
 mail:
 - pavel.felgr@pirati.cz
