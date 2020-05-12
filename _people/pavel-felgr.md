@@ -4,8 +4,8 @@ name:     Pavel Felgr   	# běžně používáné jméno
 fullname: Pavel Felgr   	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - clen
-img: people/marek-forster.jpg   # 165 x 220
-description: krajským koordinátor projektu Rekonstrukce státu, tvorba a správa internetových stránek, internetový marketing          	# kratký popis, max 160 znaků
+img: people/pavel-felgy.jpg   # 165 x 220
+description: krajský koordinátor projektu Rekonstrukce státu, tvorba a správa internetových stránek, internetový marketing          	# kratký popis, max 160 znaků
 mail:
 - pavel.felgr@pirati.cz
 mob: +420 777 585 483
@@ -13,51 +13,12 @@ profiles:
   facebook: https://www.facebook.com/pavel.felgr
 ordpsp: 7
 ordpks: 4
-
-supporting:
-- Internet (přístup k informacím) je základní lidské právo, nesmí být omezován ani cenzurován
-- Stát by měl být levným základním servisním zázemím občana a musí přestat lidem kecat do života
-- Zrušení zbytečných agend na straně státu a propuštění minimálně 15% státních úředníků 
-- Žijeme v Evropě, platíme evropské ceny za zboží i služby, měli bychom být evropsky odměňováni
-- Průhledné hospodaření státu, všechny jeho výdaje musí být snadno veřejně dohledatelné
-- Snížení daňové zátěže a odvodů pro zaměstnance a podnikatele 
-
-notsupporting:
-- Je třeba snížit byrokracii, absurdity a buzeraci ze strany státu pro podnikatele
-- Zákony a jejich aktualizace vznikají v takovém chaosu, že to nikdo nemá šanci sledovat, nedejbože se tím řídit
-- Jakákoliv forma dotací a pobídek poškozuje ekonomiku a podporuje pouze velké a nadnárodní firmy
-- Jsem proti vystoupení z EU
-- ČNB by neměla nadále ovlivňovat kurz koruny, stop intervencím a znehodnocování českých platů
-- Zákaz kouření v jakýchkoliv soukromých prostorech by měl být zrušen
- 
-
-motto: ["Nic není důležitější než svoboda.", "Ernest Hemingway, americký spisovatel a novinář"]
-
 ---
 
-Marek se narodil 4. července 1976 ve Frýdlantu v Čechách. Od malička žil v Desné v Jizerských horách, chodil do školy v Jablonci nad Nisou, studoval eletrotechniku v Liberci a Praze.
-V Praze poté asi 12 let žil, pracoval a podnikal. Na jaře 2011 se vrátil do Jizerek, nyní podniká a žije s přítelkyní Hankou, dcerou Bertou a kocourem Garfieldem v Desné.
+Více než 20 let pracuji v oblasti výpočetní techniky. Posledních 10 let se věnuje také tvorbě a správě internetových stránek a internetovému marketingu.
 
-Už v útlém věku propadl kouzlu počítačů a programování, což mu zůstalo.
+Od ledna 2013 jsem byl krajským koordinátorem projektu Rekonstrukce státu. V Libereckém kraji se povedlo vytvořit tým lidí a dostat tento projekt do povědomí.
 
-Profesionálně se orientuje na vývoj internetových a databázových aplikací, v poslední době pro dotyková zařízení.
+V současné době pracuji v kontrolním výboru v Liberci, kde se snažíme odkrývat některé problematické smlouvy a zakázky.
 
-Amatérsky se věnuje sjezdovému lyžování a cyklistice. Ve volném čase koumá nové IT technologie, fotografuje, poslouchá a skládá elektronickou hudbu.
-
-O politiku se začal zajímat zhnusen vývojem politiky v posledních letech a postupnou degradací svobody a demokracie u nás.
-
-Piráti jsou mu srdcem i duší nejbližší, proto se stal v roce 2011 jejich příznivcem a podporovatelem a v roce 2013 právoplatným členem.
-V roce 2014 se stal druhým místopředsedou libereckého krajského sdružení. Na tuto funkci ale v roce 2016 rezignoval, kvůli nedostatku času na své podnikatelské a osobní projekty. Od konce roku 2018 je opět čtvrtým místopředsedou krajského sdružení.
-
-
-
-**Politické názory a priority** 
-  * Svoboda v reálném životě i na internetu
-  * Internet - přístup k informacím - je základní lidské právo - nesmí být omezován ani cenzurován
-  * Terorismus nemůže být záminkou vlád ke šmírování lidí a omezování soukromí na internetu
-  * Minimalizace úlohy státu v životě člověka - stát by měl být jen základním servisním zázemím občana (bezpečnost, vzdělání, zdravotnictví), ne jeho (ekonomickou) koulí na noze. Čím méně stát zasahuje do činností občana, tím je občan svobodnější.
-  * Jednodušší legislativa - méně byrokracie - méně úředníků - nižší daně - větší šance, že budou lidé generovat reálné hodnoty a dostanou za to dobře zaplaceno
-  * Žijeme v Evropě, platíme evropské ceny za zboží i služby - měli bychom být evropsky odměňováni
-  * Transparentnost státních financí - omezení prostoru pro korupci a rozkrádání
-  * Politici a státní zaměstnanci musí mít zpětnou vazbu a finanční zodpovědnost ohledně svých rozhodnutí
-  * Stát jsme my - státní podniky nebo podniky se státní účastí by měly mít ceny služeb nastaveny tak, aby negenerovaly zisk na úkor občanů
+Členem Pirátské strany jsem od roku 2019.
