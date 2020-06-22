@@ -17,7 +17,7 @@ Nejjednodušší cesta jak se zapojit, je pirátské [Nalodění](https://nalode
 
 Krajsky organizované akce, kde se s námi můžete setkat najdete v našem [krajském kalendáři](https://calendar.google.com/calendar/embed?showTitle=0&showNav=0&showDate=0&showPrint=0&showTabs=0&showCalendars=0&showTz=0&mode=AGENDA&height=500&wkst=2&hl=cs&bgcolor=%23FFFFFF&src=vd0bm8kuaqdhmcjlnp6qj026fc%40group.calendar.google.com&color=%232952A3&ctz=Europe%2FPrague){:target="_blank"}.
 
-Pokud potřebujete nějaké další informace, neváhejte kontaktovat naši krajskou koordinátorku [Helenu Vondrákovou](/lide/helena-vondrakova).
+Pokud potřebujete nějaké další informace, neváhejte kontaktovat naši krajskou koordinátorku [Karolínu Gaislerovou](lide/karolina-gaislerova/).
 
 
 <div class="o-section-header o-section-header--indented">

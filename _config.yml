@@ -20,7 +20,7 @@ administrator:
 organization:
   name: Piráti - Krajské sdružení - Liberecký Kraj
   shortName: Piráti Liberecký Kraj
-  email: helena.vondrakova@pirati.cz
+  email: karolina.gaislerova@pirati.cz
   phone: +420 770 113 645
   address: |
     Pixel - Pirátské centrum Jablonec n/N
@@ -117,7 +117,7 @@ collections:
 
   program:
     output: true
-    permalink: /komunalni-volby/program/:path/
+    permalink: /program/:path/
 
   # Sole purpose is to create candidate lists in separate files.
   candidatelists:

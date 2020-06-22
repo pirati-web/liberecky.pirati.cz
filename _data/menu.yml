@@ -20,8 +20,11 @@ main:
     name: O nás
     match: lide
   - link: /kandidatka/
-    name: Kandidátka pro krajské volby
+    name: Kandidátka pro KV
     match: kandidatka
+  - link: /krajske-volby/
+    name: Krajské volby
+    match: krajske-volby
 #  - link: /tabulka/
 #    name: Tabulka
 #    match: tabulka
