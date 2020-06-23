@@ -30,7 +30,7 @@ Cestování v kraji i mimo něj musí být časově efektivní, pohodlné a ide�
 
 ## Modrozelená infrastruktura
 __Garant – Václav Židek__
-### motto: „biodiverzita a dostatek vody je základ ekosystému, který nás živí”
+### motto: „Biodiverzita a dostatek vody je základ ekosystému, který nás živí”
 Kraj musí podporovat zadžování vody v krajině a biodiverzitu, veřejné finance musí sloužit veřejnému zájmu. Pokud se kraj projekčně, finančně či územně podílí na projektu, musí vyžadovat stavby v souladu se strategií zadržování vody v krajině (tím i snižovat náklady na údržbu zeleně, snížení škod vodní a větrnou erozí půdy) a také v souladu se zachováním či rozšířením biodiverzity. Kraj musí sloužit jako garant rozvoje zeleno-modré infrastruktury.
 
 ## Životní prostředí
@@ -62,6 +62,8 @@ Krajské hospodaření má být maximálně efektivní a otevřené. Kraj musí 
 __Garant – Ondřej Novosad__
 ### motto: „Kraj musí podporovat udržitelný růst a tedy i udržitelné financování. Bez jasného cíle a promyšleného plánu jak ho dosáhnout není kam pokračovat.”
 Kraj musí pokračovat v projektu Místní agendy 21, Zdravý kraj. Dále musí přijmout Agendu 2030, sledovat cíle udržitelné krajiny a zajistit promyšlený plán rozvoje se stabilním financováním. Stabilní a udržitelný růst je v zájmu nás všech a jedině tehdy můžeme hrdě předat krajinu, kde žijeme, našim dětem.
+
+(Programový bod Místní rozvoj prochází schvalovacím procesem na úrovni Krajského Fóra)
 
 ## Otevřený kraj
 __Garant – Jan Tempel__
