@@ -63,8 +63,6 @@ __Garant – Ondřej Novosad__
 ### motto: „Kraj musí podporovat udržitelný růst a tedy i udržitelné financování. Bez jasného cíle a promyšleného plánu jak ho dosáhnout není kam pokračovat.”
 Kraj musí pokračovat v projektu Místní agendy 21, Zdravý kraj. Dále musí přijmout Agendu 2030, sledovat cíle udržitelné krajiny a zajistit promyšlený plán rozvoje se stabilním financováním. Stabilní a udržitelný růst je v zájmu nás všech a jedině tehdy můžeme hrdě předat krajinu, kde žijeme, našim dětem.
 
-(Programový bod Místní rozvoj prochází schvalovacím procesem na úrovni Krajského Fóra)
-
 ## Otevřený kraj
 __Garant – Jan Tempel__
 ### motto: „Efektivita, spolupráce, otevřenost”
