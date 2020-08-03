@@ -1,7 +1,9 @@
 ---
 uid: petr.vyhnal
 name:     Petr Vyhnal  	# běžně používáné jméno
-fullname: Bc. Petr Vyhnal  	# jméno s tituly etc.
+fullname: Ing. Petr Vyhnal  	# jméno s tituly etc.
+titles:
+  before: Ing.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - psp
 img: people/petr-vyhnal.jpg   # 165 x 220
