@@ -4,7 +4,7 @@ name:     Petr Marek  	# běžně používáné jméno
 fullname: Petr Marek  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
   - clenove
-#img: people/petr-marek.jpg   # 165 x 220
+img: people/petr-marek.jpg   # 165 x 220
 description: Dispečer, metrolog            	# kratký popis, max 160 znaků
 mail:
 - petr.marek@pirati.cz
