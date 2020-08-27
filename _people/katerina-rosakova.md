@@ -2,7 +2,7 @@
 uid: katerina.rosakova
 name:     Kateřina Rosáková  	# běžně používáné jméno
 fullname: Kateřina Rosáková  	# jméno s tituly etc.
-img: people/katerina-rosakova.jpg   # 165 x 220
+img: people/katerina-rosakova_2.jpg   # 165 x 220
 description:  Asistentka pedagoga, hudebnice, slamerka, skautka            	# kratký popis, max 160 znaků
 mail:
 - katerina.rosakova@pirati.cz 
@@ -10,7 +10,6 @@ mob:			  +420 739 823 826
 profiles:
   facebook: https://www.facebook.com/kaci.rosakova
 ---
-
 **Kateřina Rosáková** (* 12. srpna 1998) je rodačka z České Lípy, kde celý život žije.
 
 Od mateřské školky si přála pracovat v oboru školství, stejně jako její matka učitelka. Vystudovala Vyšší odbornou školu sklářskou a střední školu, Nový Bor - obor Předškolní a mimoškolní pedagogika. (2017)
