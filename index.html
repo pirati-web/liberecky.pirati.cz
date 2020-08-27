@@ -1,18 +1,12 @@
 ---
 layout: default
-rbar: 
-   - fb
-   - calendar
-img: banner-default.jpg
 ---
 
-{% include homepage/banner.html 
-   link='/lide/'
-   title='O nás'
-   default='banner-default.jpg'
-   mobile='banner-mobile.jpg'
-   breakpoint=640
-%}
+{% include homepage/banner.html href="/krajske-volby/" cta="Volby" title="Piráti Libereckého kraje" img="banner-default.jpg" %}
 
-{% include homepage/news-with-rbar.html %}
-
+<div class="container container--default lg:pb-24">
+  {% include homepage/news.html %}
+  {% include homepage/countdown.html deadline="2020-10-02 00:00:00" %}
+  {% include homepage/calendar.html %}
+  {% include homepage/social.html %}
+</div>

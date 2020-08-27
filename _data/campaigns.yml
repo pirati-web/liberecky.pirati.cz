@@ -2,7 +2,7 @@
 # election campaings are held at the same time (which saves $$$ for the country).
 
 - groupUid: volby-2020  # identifier of the group, to be used in program point
-  title: Volby v roce 2020     # title of the campaign group
+  title: Volby 2020     # title of the campaign group
   campaigns:
     - title: Krajské volby v Libereckém kraji 2020   # individual campaigns within the group
       categoryUid: kraj2020

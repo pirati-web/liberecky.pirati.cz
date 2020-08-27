@@ -6,6 +6,7 @@ layout: post
 title: Pirátský autobus budoucnosti projede Libereckým krajem 19. a 20. srpna 
 author: Michal Chalupa
 image: posts/2020-08-18-piratsky-autobus-budoucnosti-projede-libereckym-krajem-19-a-20-srpna.jpg
+important: true
 ---
 Speciální pirátský autobus budoucnosti míří do Libereckého kraje. Kromě představení programu pro krajské a senátní volby a prezentaci krajských kandidátů veřejnosti nabídne autobus také vhled do delší budoucnosti – ať už **VR brýlemi**, **elektrickou jednokolkou** nebo **holografickým projektorem**.
 
@@ -17,7 +18,7 @@ Oba dny mohou občané dorazit na zastávky autobusu a debatovat s představitel
 
 ### Zastávky ve středu 19. srpna
 
-![Zastávky autobusu ve středu 19. srpna](/assets/img/posts/2020-08-18-piratsky-autobus-budoucnosti-projede-libereckym-krajem-19-a-20-srpna_2.png)
+{% asset 'https://a.pirati.cz/resize/940x-/liberecky/img/posts/2020-08-18-piratsky-autobus-budoucnosti-projede-libereckym-krajem-19-a-20-srpna_2.png' magick:gravity='north' alt='Zastávky autobusu ve středu 19. srpna'%}
 
 **Jilemnice** – Masarykovo náměstí, 8.00–8.30<br/> 
 **Semily** – Riegrovo náměstí, 11.00–13.00<br/>
@@ -28,7 +29,7 @@ Oba dny mohou občané dorazit na zastávky autobusu a debatovat s představitel
 
 ### Zastávky ve čtvrtek 20. srpna
 
-![Zastávky autobusu ve čtvrtek 20. srpna](/assets/img/posts/2020-08-18-piratsky-autobus-budoucnosti-projede-libereckym-krajem-19-a-20-srpna_3.png)
+{% asset 'https://a.pirati.cz/resize/940x-/liberecky/img/posts/2020-08-18-piratsky-autobus-budoucnosti-projede-libereckym-krajem-19-a-20-srpna_3.png' magick:gravity='north' alt='Zastávky autobusu ve čtvrtek 20. srpna'%}
 
 **Frýdlant v Čechách** – Náměstí T.G. Masaryka, 10.00–11.00<br/>
 **Jablonné v Podještědí** – ul. Zdislavy z Lemberka (naproti České spořitelně), 11.40–12.40<br/>

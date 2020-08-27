@@ -12,6 +12,8 @@ mail:
 mob: +420 775 688 305
 profiles:
   twitter: https://twitter.com/madbeyk
+  facebook: https://www.facebook.com/madbeyk
+  instagram: https://www.instagram.com/madbeyk
 ordpsp: 7
 ordpks: 4
 

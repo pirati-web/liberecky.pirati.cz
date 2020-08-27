@@ -13,12 +13,13 @@ description: >-
 keywords: piráti, liberecký kraj, česká pirátská strana, svoboda, demokracie, krajské sdružení, liberec, jablonec, turnov, semily, tanvald, železný brod, nový bor, česká lípa, frýdlant
 url: https://liberecky.pirati.cz
 
+mediaStorage: liberecky
 
 administrator:
   email: marek.forster@pirati.cz, vaclav.zidek@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
 
 organization:
-  name: Piráti - Krajské sdružení - Liberecký Kraj
+  name: Piráti Liberecký Kraj
   shortName: Piráti Liberecký Kraj
   email: karolina.gaislerova@pirati.cz
   phone: +420 770 113 645
@@ -53,7 +54,7 @@ facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
   profilePage: https://www.facebook.com/cpslbc/
-  profilePageName: Česká pirátská strana - Liberecký kraj
+  profilePageName: Piráti Liberecký kraj
   appId: 1526197851008996
 
 twitter:
@@ -126,17 +127,11 @@ collections:
 defaults:   # defaults values for collection scope
   -
     scope:
-      path: "_posts"
-    values:
-      layout: "post"
-  -
-    scope:
       path: "_people"
     values:
       layout: "person"
       rbar:
-        - foto
-        - personContact
+        - profile
         - people
   -
     scope:
@@ -165,9 +160,11 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.5.0/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.7.1/_sass
     - assets/css
     - assets/fonts
     - assets/video
     - assets/img
     - _sass
+
+styleguide_base_url: 'https://styleguide.pir-test.eu/latest/'
