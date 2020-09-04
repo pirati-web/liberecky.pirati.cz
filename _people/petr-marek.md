@@ -16,7 +16,7 @@ Petr Marek bydlí ve Stráži pod Ralskem a je mu 47 let.
 
 Pracuje ve stavební firmě CL-EVANS s.r.o. jako dispečer, metrolog. Jeho pracovní činnost je zajišťovat dopravu a zásobování na stavby, dále provádění kontroly předepsaných měřidel potřebných pro naši práci.
 
-Mimo své zaměstnání je zapojen v komunální politice ve Stráži pod Ralskem na postu radní a zastupitel. Do komunální politiky šel z důvodu, že chce pracovat pro občany města.
+Mimo své zaměstnání je zapojen v komunální politice ve Stráži pod Ralskem na postu zastupitel. Do komunální politiky šel z důvodu, že chce pracovat pro občany města.
 
 Nastavit jasné podmínky financování spolků a sdružení v našem městě z gratového fondu města, poukázat na špatný systém financování sdružení a spolků v našem městě, systém aby byl transparentní.
 
