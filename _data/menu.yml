@@ -66,6 +66,8 @@ bottom:
         name: Členové na fóru
       - link: https://nalodeni.pirati.cz/
         name: Staň se Pirátem!
+      - link: /download/Piratske_listy_Liberecky_kraj_podzim_2020.pdf
+        name: Pirátské Listy (PDF)
   - class: small-12 medium-4
     title: Otevřenost
     links:
