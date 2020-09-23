@@ -4,7 +4,7 @@ name:     Zbyněk Vlk  	# běžně používáné jméno
 fullname: Ing. Zbyněk Vlk  	# jméno s tituly etc.
 titles:
   before: Ing.
-img: people/jakub-pirat.jpg   # 165 x 220
+img: people/zbynek-vlk.jpg   # 165 x 220
 description:  ekozemědělec, předseda spolku Lunaria, zakladatel Žijícího skanzenu        	# kratký popis, max 160 znaků
 mail:
 - lunaria.jps@seznam.cz
