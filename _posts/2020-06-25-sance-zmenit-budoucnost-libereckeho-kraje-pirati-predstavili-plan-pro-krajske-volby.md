@@ -4,7 +4,7 @@ category: blog
 tags: volby krajské zastupitelstvo kampaň plán zahájení budoucnost
 layout: post
 title: Šance změnit budoucnost Libereckého kraje, piráti představili plán pro krajské volby 
-author: Jan Hruška
+author: Michal Chalupa
 image: posts/2020-06-25-sance-zmenit-budoucnost-libereckeho-kraje-pirati-predstavili-plan-pro-krajske-volby.jpg
 important: true
 ---

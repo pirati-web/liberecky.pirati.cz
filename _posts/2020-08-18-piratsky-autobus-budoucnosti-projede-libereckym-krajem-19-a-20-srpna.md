@@ -4,7 +4,8 @@ category: blog
 tags: pirátský autobus roadshow roadtour srpen 2020
 layout: post
 title: Pirátský autobus budoucnosti projede Libereckým krajem 19. a 20. srpna 
-author: Michal Chalupa
+author: Jan Hruška
+authorId: jan.hruska
 image: posts/2020-08-18-piratsky-autobus-budoucnosti-projede-libereckym-krajem-19-a-20-srpna.jpg
 important: true
 ---

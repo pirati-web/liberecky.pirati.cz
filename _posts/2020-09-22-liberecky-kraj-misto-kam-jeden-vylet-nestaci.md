@@ -3,7 +3,7 @@ date: 2020-09-22
 category: blog
 tags: cestování liberecký kraj jizerky přívětivá doprava
 layout: post
-title: Liberecký kraj-místo, kam jeden výlet nestačí
+title: Místo, kam jeden výlet nestačí
 author: Jarmila Valešová
 authorId: jarmila.valesova
 image: posts/2020-09-22-liberecky-kraj-misto-kam-jeden-vylet-nestaci.jpg
