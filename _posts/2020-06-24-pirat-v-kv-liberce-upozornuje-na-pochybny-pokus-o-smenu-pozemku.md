@@ -4,7 +4,7 @@ category: blog
 tags: liberec kontrolní výbor arogance úředníka
 layout: post
 title: Pirát v Kontrolním výboru Liberce upozorňuje na pochybný pokus o směnu pozemku i aroganci úředníka 
-author: Pavel Felgr
+author: Michal Chalupa
 image: posts/2020-06-24-pirat-v-kv-liberce-upozornuje-na-pochybny-pokus-o-smenu-pozemku.jpg
 ---
 Kontrolní výbor města Liberec aktuálně vydal dvě stanoviska k problematickým kauzám, které zhodnotil v květnu a červnu letošního roku. První se týká dlouholeté tahanice o zpětný odkup pozemku původně určenému k vybudování informačního turistického centra společností Kalendář Liberecka. Druhá kontrola poukázala na nesrovnalosti v provozování City DashBoard, který vzhledem k deficitní aktivitě Liberecké Informační Služby a.s. neplní svou funkci. Je nyní na čtvrtečním jednání vedení města, jak se oběma problémům postaví.

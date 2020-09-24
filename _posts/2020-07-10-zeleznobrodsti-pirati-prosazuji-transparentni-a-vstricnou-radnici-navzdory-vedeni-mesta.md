@@ -4,8 +4,7 @@ category: blog
 tags: Železný Brod úprava jednacího řádu zastupitelstvo transparence 
 layout: post
 title: Občane, počkej si! Železnobrodští Piráti prosazují transparentní a vstřícnou radnici navzdory vedení města 
-author: Jan Tempel
-authorId: jan.tempel
+author: Michal Chalupa
 image: posts/2020-07-10-zeleznobrodsti-pirati-prosazuji-transparentni-radnici-navzdory-vedeni-mesta.jpg
 ---
 Piráti v Železném Brodě dlouhodobě pracují na přiblížení radnice občanům města, a proto se také zasazují o pevně daný čas občanských interpelací během zasedání zastupitelstva. V praxi jde o to, aby každý občan věděl, kdy se na jeho vyjádření či stížnost dostane a nemusel trávit dlouhé hodiny čekáním.
