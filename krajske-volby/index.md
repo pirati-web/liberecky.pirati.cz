@@ -24,5 +24,5 @@ Současně s volbami do krajského zastupitelstva probíhají <b>volby do Senát
   {% include buttons/icon.html href="?pohled=program" icon="ico--chevron-right" cta="Program" class="btn--cyan-200 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
   {% include buttons/icon.html href="?pohled=kandidati" icon="ico--chevron-right" cta="Kandidáti" class="btn--blue-300 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
   {% include buttons/icon.html href="/download/Piratske_listy_Liberecky_kraj_podzim_2020.pdf" icon="ico--book" cta="Pirátské Listy" class="btn--violet-400 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
-  {% include buttons/icon.html href="/krajske-volby/povolebni-strategie" icon="ico--newspaper" cta="Povolební strategie" class="btn--blue-300 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
+  {% include buttons/icon.html href="/krajske-volby/povolebni-strategie.html" icon="ico--newspaper" cta="Povolební strategie" class="btn--blue-300 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
 </div>
