@@ -6,8 +6,9 @@ titles:
   before: Ing.
 category: 
   - clenove
-  - zastupitel
   - zastupitel_turnov
+  - zastupitel_kraj
+ordzastupitel_kraj: 1
 ordzastupitel: 2
 ordclenove: 1
 description: Konzultant, poradenství a školení, zastupitel města Turnov
