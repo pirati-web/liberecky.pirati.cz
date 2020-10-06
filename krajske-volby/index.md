@@ -13,7 +13,7 @@ heroBgImg: top5_liberecko_v2.jpg
 <p class="leading-snug pt-2">
 Volby do Krajského zastupitelstva <b>proběhly 2. a 3. října 2020</b>.
 Naše krajská kandidátka s číslem 19 získala <b>9,86 % hlasů</b>, na základě tohoto výsledku <b>máme 5 krajských pirátských zastupiteů</b>.
-Děkujeme všem za pomoc s kampaní a také za všechny Vaše hlasy. V této chvíli probíhají jednání se Starosty o podobě koalice.
+Děkujeme všem za pomoc s kampaní a také za všechny Vaše hlasy. V úterý 6. října jsme deklarovali dohodu o novém vedení Libereckého kraje. Piráti se budou podílet na formování jeho budoucnosti v koalici s vítězným SLK a ODS. Koaliční smlouvu ještě musí projednat a schválit členská základna Pirátů Libereckého kraje ve veřejném hlasování. Podrobnosti najdete v <a href="/aktuality/pirati-libereckeho-kraje-se-dohodli-na-vladnouci-koalici-se-slk-a-ods.html">tiskové zprávě</a>.
 </p>
 
 <p class="leading-snug"> 
