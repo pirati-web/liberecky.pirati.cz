@@ -815,5 +815,5 @@ _Jiří Čeřovský Vladimír Richter_
 
 ----
 <div class="mt-24 md:mt-36 space-y-4 content-block_nostyle">
-  {% include buttons/icon.html href="/download/LK_2020_koalicni_smlouva_a_programove_prohlaseni_navrh2.pdf" icon="ico--book" cta="Koaliční smlouva a programové prohlášení (PDF)" class="btn--blue-300 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
+  {% include buttons/icon.html href="/download/LK_2020_koalicni_smlouva_a_programove_prohlaseni_navrh3.pdf" icon="ico--book" cta="Koaliční smlouva a programové prohlášení (PDF)" class="btn--blue-300 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
 </div>
