@@ -5,7 +5,7 @@ tags: turow důl nelegální rozšíření evropská komise
 layout: post
 title:  Piráti svědky nezákonného rozšíření dolu Turów, celá kauza stojí před Evropskou komisí
 author: Michal Chalupa
-authorId: michal.chalupa
+#authorId: michal.chalupa
 image: posts/2020-11-18-pirati-svedky-nezakonneho-rozsireni-dolu-turow-cela-kauza-stoji-pred-evropskou-komisi.jpg
 ---
 Na programu prvního jednání zástupců České republiky, Polska a Evropské komise, které proběhlo v pátek v Bruselu, byl podnět České republiky o prodloužení a rozšíření povolení těžební činnosti v polském dole Turów. Piráti již více než rok tlačí na Ministerstvo životního prostředí, aby hájilo české zájmy, tedy aby došlo k okamžitému zastavení nelegální těžby na polském území, které negativně ovlivňuje kvalitu života a životní prostředí na české straně hranice. Evropská komise by se ke sporu měla oficiálně vyjádřit do konce roku 2020. Pirátská poslankyně a předsedkyně Výboru pro životní prostředí Dana Balcarová, poslanec za Liberecký kraj Tomáš Martínek a radní pro životní prostředí a zemědělství Libereckého kraje Václav Židek vyrazili přímo do terénu, aby zhlédli aktuální stav těžby a celou situaci na česko-polských hranicích. 
