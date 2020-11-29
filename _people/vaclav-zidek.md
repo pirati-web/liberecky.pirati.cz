@@ -4,7 +4,9 @@ name:     Václav Židek  	# běžně používáné jméno
 fullname: Václav Židek  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
   - zastupitel_kraj
+  - odbory
 ordzastupitel_kraj: 2
+ordodbory: 3
 img: people/vaclav-zidek.jpg   # 165 x 220
 description: Obchodník, koordinátor dobrovolníků           	# kratký popis, max 160 znaků
 mail:

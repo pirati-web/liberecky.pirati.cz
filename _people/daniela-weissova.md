@@ -5,15 +5,13 @@ fullname: Daniela Weissová  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
   - clenove
   - zastupitel
-  - pks
   - zastupitel_turnov
   - zastupitel_kraj
 ordzastupitel_kraj: 5
-ordpks: 3
 ordzastupitel: 1  
 ordclenove: 2  
 img: people/daniela-weissova.jpg   # 165 x 220
-description: Dramaturg KC Turnov, zdravotní klaun, zastupitel města Turnov. Druhá místopředsedkyně krajského sdružení.            	# kratký popis, max 160 znaků
+description: Dramaturg KC Turnov, zdravotní klaun, zastupitel města Turnov, krajská zastupitelka.            	# kratký popis, max 160 znaků
 mail:
 - daniela.weissova@pirati.cz
 profiles:

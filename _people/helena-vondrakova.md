@@ -3,12 +3,10 @@ uid: helena.vondrakova
 name:     Helena Vondráková      	# běžně používáné jméno
 fullname: Helena Vondráková  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-- pks
 - zastupitel_ostatni
 ordzastupitel: 2
-ordpks: 2
 img: people/helena-vondrakova.jpg           # 165 x 220
-description: První místopředsedkyně krajského sdružení libereckého kraje a zastupitelka obce Pulečný.
+description: Provozní chaty a restaurace. Zastupitelka obce Pulečný.
 mail:
 - helena.vondrakova@pirati.cz
 profiles:

@@ -2,11 +2,11 @@
 uid: jana.schlegelova
 name:     Jana Schlegelová      	# běžně používáné jméno
 fullname: Ing. Jana Schlegelová  		# jméno s tituly etc.
-category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-- pks
-ordpks: 5
+category:
+- odbory                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/jana-schlegelova.jpg           # 165 x 220
-description: Čtvrtá místopředsedkyně krajského sdružení libereckého kraje, členka kontrolního výboru města Liberec
+ordodbory: 2
+description: Členka kontrolního výboru města Liberec, vedoucí krajského AO 
 mail:
 - jana.schlegelova@pirati.cz
 mob: +420 775 991 943

@@ -4,7 +4,6 @@ name:     Ondřej Kolek  	# běžně používáné jméno
 fullname: Ing. Ondřej Kolek, PhD.  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - psp
-- pks
 img: people/ondrej-kolek-2.jpg   # 165 x 220
 description: Předseda krajského sdružení libereckého kraje, chemik, pochází z Jablonce nad Nisou.            	# kratký popis, max 160 znaků
 mail:
@@ -13,7 +12,6 @@ mob:			  +420 724 730 461
 profiles:
   facebook: https://www.facebook.com/kolektoer.telejemny
 ordpsp: 1
-ordpks: 1
 
 supporting:
 - Vzdělání
