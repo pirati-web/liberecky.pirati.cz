@@ -8,7 +8,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 ordzastupitel_kraj: 2
 ordodbory: 3
 img: people/vaclav-zidek.jpg   # 165 x 220
-description: Obchodník, koordinátor dobrovolníků           	# kratký popis, max 160 znaků
+description: Obchodník, krajský zastupitel, vedoucí krajského FO, člen RV           	# kratký popis, max 160 znaků
 mail:
 - vaclav.zidek@pirati.cz
 mob: +420 775 198 038
