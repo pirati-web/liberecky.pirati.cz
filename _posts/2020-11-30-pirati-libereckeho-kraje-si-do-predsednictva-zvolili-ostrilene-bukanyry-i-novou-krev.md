@@ -28,7 +28,7 @@ Do předsednictva míří českolipský zastupitel [Petr Jeník](/lide/petr-jeni
 
 Poprvé do vedení strany usedne i [Pavel Váňa](/lide/pavel-vana), který je zároveň členem Krajského expertního týmu sociální politiky. 
 
->„Čeká nás výzva stmelit krajské sdružení, vytvořit silný a cílevědomý tým před volbami do sněmovny a do komunálu. Vytvořme silné zázemí pro pirátské zastupitele na Krajském úřadu i v dalších obcích našeho kraje. Nezapomínejme na oslovování nových tváří, což je priorita ležící v rukou předsednictva. Do krajské buňky přináším svůj klid, rozvahu, týmovost a zápal,“ upřesňuje své plány Pavel Váňa.
+>„Čeká nás výzva stmelit krajské sdružení, vytvořit silný a cílevědomý tým před volbami do sněmovny a do komunálu. Vytvořme silné zázemí pro pirátské zastupitele na Kraji i v dalších obcích našeho kraje. Nezapomínejme na oslovování nových tváří, což je priorita ležící v rukou předsednictva. Do krajské buňky přináším svůj klid, rozvahu, týmovost a zápal,“ upřesňuje své plány Pavel Váňa.
 
 >„Mix zkušených veteránů a mladé krve bude ten správný recept na další rozvoj krajských aktivit, pozitivní motivaci a spojování členské základny napříč krajem,“ ocenil složení týmu novopečený předseda Marek Förster. Mrzí ho jen, že v novém vedení bude chybět ženský prvek. „Chtěl bych poděkovat končícímu předsednictvu, a hlavně Ondrovi Kolkovi, za spoustu práce a energie, kterou plánování a vedení kraje dali,“ uzavírá [Marek Förster](/lide/marek-forster).
 
