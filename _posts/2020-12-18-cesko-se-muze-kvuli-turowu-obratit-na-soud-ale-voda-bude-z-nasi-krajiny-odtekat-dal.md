@@ -5,7 +5,7 @@ tags: turów důl soud evropská komise škody voda
 layout: post
 title: Česko se může kvůli Turówu obrátit na soud, ale voda bude z naší krajiny odtékat dál
 author: Michal Chalupa
-authorId: michal.chalupa
+#authorId: michal.chalupa
 image: posts/2020-12-18-cesko-se-muze-kvuli-turowu-obratit-na-soud-ale-voda-bude-z-nasi-krajiny-odtekat-dal.jpg
 ---
 K dalšímu posunu došlo v otázce problematiky polského hnědouhelného dolu Turów. Česká strana se snažila s polským protějškem dosáhnout mimosoudního řešení problémů způsobených těžbou, ale přes veškeré úsilí a pomoc od ministerstev zahraničí a zemědělství se jej dosáhnout nepodařilo. Nyní dala české straně Evropská komise za pravdu a vše směřuje k Soudnímu dvoru Evropské unie.
