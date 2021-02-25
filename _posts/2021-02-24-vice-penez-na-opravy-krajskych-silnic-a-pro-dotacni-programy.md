@@ -1,17 +1,13 @@
 ---
 date: 2021-02-24
 category: blog
-tags: kraj zastupitelstvo únor 2021 zpráva
+tags: kraj zastupitelstvo únor 2021 zpráva opravy silnic dotační programy
 layout: post
-title: Zpráva z únorového zastupitelstva
+title: Více peněz na opravy krajských silnic a pro dotační programy
 author: Jarmila Valešová
 authorId: jarmila.valesova
 image: posts/2021-02-24-zprava-z-unoroveho-zastupitelstva.jpg
 ---
-Více peněz na opravy silnic druhé a třetí třídy, navýšení dotačního fondu na rok 2021, podpora hasičů a řemeslníků, budování nových cyklostezek, akční plán adaptace na změnu klimatu, podpora provozovatelů sociálních služeb a průběh očkování byly hlavními body únorového zastupitelstva Libereckého kraje.
-
-## Více peněz na opravy krajských silnic a pro dotační programy
-
 Zásadním bodem únorového krajského zastupitelstva bylo rozdělení 315
 milionů korun z vyšších daňových příjmů za loňský rok do letošního
 rozpočtu, který předložil pirátský náměstek pro ekonomiku Zbyněk Miklík.
