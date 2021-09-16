@@ -22,9 +22,6 @@ main:
   - link: /volby-do-poslanecke-snemovny/
     name: Volby do poslanecké sněmovny
     match: volby-do-poslanecke-snemovny
-  - link: /krajske-volby/
-    name: Krajské volby
-    match: krajske-volby
 #  - link: /tabulka/
 #    name: Tabulka
 #    match: tabulka
