@@ -10,13 +10,13 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 ordzastupitel_kraj: 5
 ordzastupitel: 1  
 ordclenove: 2  
-img: people/daniela-weissova.jpg   # 165 x 220
+img: people/daniela-weissova-ps.jpg   # 165 x 220
 description: Dramaturg KC Turnov, zdravotní klaun, zastupitel města Turnov, krajská zastupitelka.            	# kratký popis, max 160 znaků
 mail:
 - daniela.weissova@pirati.cz
 profiles:
   facebook: https://www.facebook.com/daniela.weissova.9
-heroImg: posts/2018-12-02-pirati-poprve-vstupuji-na-libereckou-radnici.jpg
+heroImg: banner_web_ps2021_big.jpg
 ---
 
 Daniela Weissová (*1.8.1961), narodila se v Jablonci nad Nisou, žije a pracuje v Turnově. Členkou Pirátské strany je od června 2014.

@@ -2,12 +2,13 @@
 uid: miloslav.kafka
 name:     Miloslav Kafka  	# běžně používáné jméno
 fullname: Miloslav Kafka  	# jméno s tituly etc.
-img: people/miloslav-kafka.jpg   # 165 x 220
+img: people/miloslav-kafka-ps.jpg   # 165 x 220
 description:  student, praktikant, geocacher            	# kratký popis, max 160 znaků
 mail:
 - miloslav.kafka@pirati.cz 
 profiles:
   facebook: https://www.facebook.com/MilaMildaSlavek
+heroImg: banner_web_ps2021_big.jpg
 ---
 
 **Miloslav Kafka** (* 30. května 2000) pochází ze Železného Brodu, kde docházel do základní školy, ale i přesto prožil několik let v horském Vrchlabí. Nyní studuje na Střední průmyslové škole technické v Jablonci nad Nisou, obor Strojírenství.

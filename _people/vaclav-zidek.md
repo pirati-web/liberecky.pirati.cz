@@ -9,14 +9,14 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 ordzastupitel_kraj: 2
 ordodbory: 3
 ordpks: 5
-img: people/vaclav-zidek.jpg   # 165 x 220
+img: people/vaclav-zidek-ps.jpg   # 165 x 220
 description: Radní Libereckého kraje pro životní prostředí a zemědělství, čtvrtý místopředseda KS, vedoucí krajského FO           	# kratký popis, max 160 znaků
 mail:
 - vaclav.zidek@pirati.cz
 mob: +420 775 198 038
 profiles:
   facebook: https://www.facebook.com/vaclav.zidek
-
+heroImg: banner_web_ps2021_big.jpg
 ---
 
 Pochází z Ostravy, kde prožil 21 let života. V roce 2001 se přestěhoval do Libereckého kraje, kde žije dodnes.

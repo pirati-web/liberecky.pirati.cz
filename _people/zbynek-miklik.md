@@ -11,7 +11,7 @@ category:
 ordzastupitel_kraj: 1
 ordzastupitel: 2
 ordclenove: 1
-description: Konzultant, poradenství a školení, zastupitel města Turnov
+description: Náměstek hejtmana, řízení resortu ekonomiky, majetku, investic, veřejných zakázek a informatiky, zastupitel města Turnov
 profession: elektronizace veřejné správy se specializací na veřejné zakázky, poradenství a školení v oblasti nákupu a zadávání veřejných zakázek
 img: people/zbynek-miklik.jpg # zakomentuj radek dokud není fotka
 #candidateDescription: expert na skoky # zobrazuje se v komunalni-volby

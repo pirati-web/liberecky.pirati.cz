@@ -2,17 +2,21 @@
 uid: tomas.martinek
 name:     Tomáš Martínek  	# běžně používáné jméno
 fullname: Ing. Tomáš Martínek  	# jméno s tituly etc.
+titles:
+  before: Ing.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - psp
 - poslanec
 ordposlanec: 1
-img: people/tomas-martinek.jpg   # 165 x 220
+img: people/tomas-martinek-ps.jpg   # 165 x 220
 description: Univerzitní lektor, podnikatel v online marketingu a fakultní systémový integrátor, majitel WebCesky.cz, poslanec za Piráty.            	# kratký popis, max 160 znaků
 mail:
 - tomas.martinek@pirati.cz 
 profiles:
   facebook: https://www.facebook.com/tmartinek
 ordpsp: 3
+
+heroImg: banner_web_ps2021_big.jpg
 
 supporting:
 - Internet (přístup k informacím) je základní lidské právo, nesmí být omezován ani cenzurován

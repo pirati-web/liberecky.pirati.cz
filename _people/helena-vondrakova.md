@@ -5,9 +5,11 @@ fullname: Helena Vondráková  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - zastupitel_ostatni
 - odbory
+titles:
+  before: Bc.
 ordzastupitel: 2
 ordodbory: 4
-img: people/helena-vondrakova.jpg           # 165 x 220
+img: people/helena-vondrakova-ps.jpg           # 165 x 220
 description: Provozní chaty a restaurace. Zastupitelka obce Pulečný. Vedoucí krajského PO.
 mail:
 - helena.vondrakova@pirati.cz
@@ -16,6 +18,7 @@ profiles:
   facebook: https://www.facebook.com/helena.sirinova
   twitter:
   linkedin:
+heroImg: banner_web_ps2021_big.jpg  
 ---
 
 Helena Vondráková (*16. prosince 1982) spolupracovala s Pirátskou stranou od roku 2018 do roku 2020 jako koordinátorka Libereckého kraje, postupně jako místopředsedkyně krajského sdružení. Původně pochází ze Zlína a od roku 2015 žije v obci Pulečný.

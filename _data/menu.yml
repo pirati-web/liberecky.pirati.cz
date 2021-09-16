@@ -19,6 +19,9 @@ main:
   - link: /lide/
     name: O nás
     match: lide
+  - link: /volby-do-poslanecke-snemovny/
+    name: Volby do poslanecké sněmovny
+    match: volby-do-poslanecke-snemovny
   - link: /krajske-volby/
     name: Krajské volby
     match: krajske-volby
@@ -63,7 +66,7 @@ bottom:
         name: Členové na fóru
       - link: https://nalodeni.pirati.cz/
         name: Staň se Pirátem!
-      - link: /download/Piratske_listy_Liberecky_kraj_podzim_2020.pdf
+      - link: https://www.piratiastarostove.cz/documents/85/PaS_LIBERECK%C3%81_mutace_220K_Podzim2021.pdf
         name: Pirátské Listy (PDF)
   - class: small-12 medium-4
     title: Otevřenost
@@ -74,5 +77,5 @@ bottom:
         name: Registr smluv
       - link: https://wiki.pirati.cz/fo/otevrene_ucetnictvi
         name: Otevřené účetnictví
-      - link: https://piroplaceni.pirati.cz/rozpocet/38/
-        name: Rozpočet kraje pro rok 2020
+      - link: https://piroplaceni.pirati.cz/rozpocet/81/
+        name: Rozpočet kraje pro rok 2021

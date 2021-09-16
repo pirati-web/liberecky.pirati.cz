@@ -5,7 +5,7 @@ fullname: Marek Förster  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - psp
 - pks
-img: people/marek-forster.jpg   # 165 x 220
+img: people/marek-forster-ps.jpg   # 165 x 220
 description: OSVČ, vývojář internetových a databázových aplikací, DJ a producent. Předseda krajského sdružení.           	# kratký popis, max 160 znaků
 mail:
 - marek.forster@pirati.cz
@@ -16,6 +16,8 @@ profiles:
   instagram: https://www.instagram.com/madbeyk
 ordpsp: 7
 ordpks: 1
+
+heroImg: banner_web_ps2021_big.jpg
 
 supporting:
 - Internet (přístup k informacím) je základní lidské právo, nesmí být omezován ani cenzurován
