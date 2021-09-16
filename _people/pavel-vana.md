@@ -5,8 +5,6 @@ fullname: Pavel Váňa  	# jméno s tituly etc.
 img: people/pavel-vana.jpg   # 165 x 220
 description:  pracovník v kontaktním centru sociálních služeb, druhý místopředseda krajského sdružení            	# kratký popis, max 160 znaků
 category:                 	# kategorie: kandidat, pks, zastupitel
-- pks
-ordpks: 3
 mail:
 - pavel.vana@pirati.cz 
 profiles:

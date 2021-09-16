@@ -3,8 +3,6 @@ uid: karolina.gaislerova
 name:     Karolína Gaislerová  	# běžně používáné jméno
 fullname: Karolína Gaislerová  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
-- kontaktni_osoba
-- kodo
 ordkodo: 1
 img: people/karolina-gaislerova.jpg   # 165 x 220
 description: Krajská koordinátorka, studentka, tanečnice            	# kratký popis, max 160 znaků

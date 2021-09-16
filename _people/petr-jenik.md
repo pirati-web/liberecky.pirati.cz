@@ -6,7 +6,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - zastupitel
 - zastupitel_ceska_lipa
 - pks
-ordpks: 5
+ordpks: 4
 ordzastupitel: 2
 img: people/petr-jenik.jpg   # 165 x 220
 description: Nezávislý novinář, internetový marketér, zastupitel města Česká Lípa, čtvrtý místopředseda krajského sdružení.            	# kratký popis, max 160 znaků

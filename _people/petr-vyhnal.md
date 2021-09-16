@@ -7,7 +7,7 @@ titles:
 category:                 	# kategorie: kandidat, pks, zastupitel
 - psp
 - pks
-ordpks: 4
+ordpks: 3
 img: people/petr-vyhnal.jpg   # 165 x 220
 description: IT specialista v oblasti bezpečnosti ITC, CISSP. Otec dvou dětí. Třetí místopředseda krajského sdružení.            	# kratký popis, max 160 znaků
 mail:
