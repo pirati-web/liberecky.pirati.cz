@@ -7,7 +7,6 @@ title: Turówské fiasko. Nenechme se vydírat, po zvýšení sankcí budou Pol�
 author: Michal Chalupa
 image: posts/2022-01-19-turowske-fiasko-nenechme-se-vydirat-po-zvyseni-sankci-budou-polaci-k-dohode-ochotnejsi.jpg
 ---
-
 Ostře sledované česko-polské bilaterální jednání skončilo, zdá se, neúspěchem. Neochota a manipulace ze strany našich severních sousedů brání smysluplnému posunu. To ovšem stojí především Poláky půl milionu eur denně a zdá se, že je to stále málo. Mezitím nadále dochází k devastaci životního prostředí na společné hranici a potlačování práv českých občanů.
 
 turow a klara s vaskem
