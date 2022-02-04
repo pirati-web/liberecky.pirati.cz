@@ -1,7 +1,7 @@
 ---
 date: 2022-01-25
 category: blog
-tags: kontorlní výbor liberec slk transparence
+tags: kontrolní výbor liberec slk transparence
 layout: post
 title: SLK proti transparentnosti Liberecké radnice? Piráti žádají jednoduchý přístup k výsledkům kontrol
 author: Redakce

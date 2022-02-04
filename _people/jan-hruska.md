@@ -6,9 +6,7 @@ titles:
   before: Mgr.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - pks
-- odbory
 ordpks: 2
-ordodbory: 1
 img: people/jan-hruska.jpg   # 165 x 220
 description: Copywriter, vedoucí krajského MO, první místopředseda krajského sdružení           	# kratký popis, max 160 znaků
 mail:
