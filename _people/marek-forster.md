@@ -3,21 +3,18 @@ uid: marek.forster
 name:     Marek Förster  	# běžně používáné jméno
 fullname: Marek Förster  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
-- psp
 - pks
-- odbory
+- kontaktni_osoba
 img: people/marek-forster-ps.jpg   # 165 x 220
-description: OSVČ, vývojář internetových a databázových aplikací. Předseda krajského sdružení. Vedoucí mediálního odboru.           	# kratký popis, max 160 znaků
+description: OSVČ, vývojář internetových a databázových aplikací. Předseda krajského sdružení.
 mail:
 - marek.forster@pirati.cz
 mob: +420 775 688 305
 profiles:
   twitter: https://twitter.com/madbeyk
-  facebook: https://www.facebook.com/madbeyk
+  facebook: https://www.facebook.com/forster.marek.pirati/
   instagram: https://www.instagram.com/madbeyk
-ordpsp: 7
 ordpks: 1
-ordodbory: 1
 
 heroImg: banner_web_ps2021_big.jpg
 
@@ -34,7 +31,7 @@ notsupporting:
 - Zákony a jejich aktualizace vznikají v takovém chaosu, že to nikdo nemá šanci sledovat, nedejbože se tím řídit
 - Jakákoliv forma dotací a pobídek poškozuje ekonomiku a podporuje pouze velké a nadnárodní firmy
 - Jsem proti vystoupení z EU
-- Česká republika by měla přijmout Euro v nejkrtším možném termínu
+- Česká republika by měla přijmout Euro v nejkratším možném termínu
 - Zákaz kouření v jakýchkoliv soukromých prostorech by měl být zrušen
  
 

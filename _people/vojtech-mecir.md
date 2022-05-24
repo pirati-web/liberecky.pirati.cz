@@ -2,10 +2,15 @@
 uid: vojtech.mecir
 name:     Vojtěch Mečíř  	# běžně používáné jméno
 fullname: Mgr. Vojtěch Mečíř  	# jméno s tituly etc.
+category:
+- odbory
+- kontaktni_osoba
+ordodbory: 1
 titles:
   before: Mgr.
+mob: +420 736 135 316
 img: people/vojtech-mecir-ps.jpg   # 165 x 220
-description: Nábytkář           	# kratký popis, max 160 znaků
+description: Nábytkář, vedoucí krajského mediálního odboru           	# kratký popis, max 160 znaků
 mail:
 - vojtech.mecir@pirati.cz
 profiles:

@@ -8,12 +8,14 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - pks
 ordpks: 2
 img: people/jan-hruska.jpg   # 165 x 220
-description: Copywriter, vedoucí krajského MO, první místopředseda krajského sdružení           	# kratký popis, max 160 znaků
+description: Copywriter, první místopředseda krajského sdružení           	# kratký popis, max 160 znaků
 mail:
 - jan.hruska@pirati.cz
 profiles:
-  facebook: https://www.facebook.com/pan.honza
+  facebook:  https://www.facebook.com/honza.hruska.liberec
 ---
-Copywriter se slabostí pro Liberec. S Piráty přišel do kontaktu v roce 2018 a zalíbilo se mu u nich natolik, že se stal členem.
+Liberci chybí svěží vítr. Od politických dinosaurů, kteří jsou na radnici dlouhé roky, se ho však nedočkáme. Myslím si, že nové tváře jsou v politice třeba. Proto jsem se rozhodl kandidovat do zastupitelstva v mém rodném městě. Chci, aby se Liberec stal moderní a sebevědomou metropolí. Kde je radost žít a vychovávat děti.
 
-Nyní je vedoucí krajského mediálního odboru. Ve volném času leze po horách. Užívá si koncerty ska, punk, rap a elektro kapel. Objíždí fotbalové stadiony od Marrákeše po Košice.
+Do politiky a k Pirátům mě to zavanulo v roce 2018. Zalíbilo se mi u nich natolik, že se jsem se stal členem. Jsem volební lídr libereckých Pirátů a místopředseda místního sdružení. V minulosti jsem vedl zdejší mediální odbor.
+
+Živím se jako copywriter, psavec, online marketér. Sbírám vše liberecké. Hlavně staré pohledy, odznaky a fotbalové vstupenky. Jsem vášnivý fanoušek Slovanu a fotbalu. Objíždím stadiony od Marrákeše po Košice. Ale nejradši se pohybuji na horách a dlouhých trailech.

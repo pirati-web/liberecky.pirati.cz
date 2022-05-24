@@ -4,13 +4,11 @@ name:     Václav Židek  	# běžně používáné jméno
 fullname: Václav Židek  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
   - zastupitel_kraj
-  - odbory
   - pks
 ordzastupitel_kraj: 2
-ordodbory: 3
 ordpks: 5
 img: people/vaclav-zidek-ps.jpg   # 165 x 220
-description: Radní Libereckého kraje pro životní prostředí a zemědělství, čtvrtý místopředseda KS, vedoucí krajského FO           	# kratký popis, max 160 znaků
+description: Radní Libereckého kraje pro životní prostředí a zemědělství, čtvrtý místopředseda KS
 mail:
 - vaclav.zidek@pirati.cz
 mob: +420 775 198 038

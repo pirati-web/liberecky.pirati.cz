@@ -10,7 +10,7 @@ titles:
 ordzastupitel: 2
 ordodbory: 4
 img: people/helena-vondrakova-ps.jpg           # 165 x 220
-description: Provozní chaty a restaurace. Zastupitelka obce Pulečný. Vedoucí krajského PO.
+description: Scrum master, zastupitelka obce Pulečný, vedoucí krajského personálního odboru
 mail:
 - helena.vondrakova@pirati.cz
 profiles:
