@@ -19,9 +19,12 @@ main:
   - link: /lide/
     name: O nás
     match: lide
-  - link: /volby-do-poslanecke-snemovny/
-    name: Volby do poslanecké sněmovny
-    match: volby-do-poslanecke-snemovny
+  - link: /komunalni-volby-2022/
+    name: Komunální volby
+    match: komunalni-volby-2022
+#  - link: /volby-do-poslanecke-snemovny/
+#    name: Volby do poslanecké sněmovny
+#    match: volby-do-poslanecke-snemovny
 #  - link: /tabulka/
 #    name: Tabulka
 #    match: tabulka
@@ -40,14 +43,14 @@ bottom:
   - class: small-12 medium-4
     title: Lokální weby
     links:
+      - link: https://liberec.pirati.cz
+        name: Liberec
       - link: https://jablonec.pirati.cz
         name: Jablonec nad Nisou
       - link: http://piraticl.cz
         name: Česká Lípa
       - link: https://turnov.pirati.cz
         name: Turnov
-      - link: https://semily.pirati.cz
-        name: Semily
       - link: https://zeleznybrod.pirati.cz
         name: Železný Brod
   - class: small-12 medium-4

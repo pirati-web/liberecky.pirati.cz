@@ -5,9 +5,7 @@ fullname: Mgr. Jan Hruška  	# jméno s tituly etc.
 titles:
   before: Mgr.
 category:                 	# kategorie: kandidat, pks, zastupitel
-- pks
-ordpks: 2
-img: people/jan-hruska.jpg   # 165 x 220
+img: people/jan-hruska_new.jpg   # 165 x 220
 description: Copywriter, první místopředseda krajského sdružení           	# kratký popis, max 160 znaků
 mail:
 - jan.hruska@pirati.cz

@@ -3,7 +3,10 @@ uid: vaclav.balsanek
 name:     Václav Balšánek  	# běžně používáné jméno
 fullname: Václav Balšánek  	# jméno s tituly etc.
 img: people/vaclav-balsanek.jpg   # 165 x 220
-description: OSVČ           	# kratký popis, max 160 znaků
+description: OSVČ, první místopředseda krajského sdružení           	# kratký popis, max 160 znaků
+category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
+- pks
+ordpks: 2
 mail:
 - vaclav.balsanek@pirati.cz
 ---

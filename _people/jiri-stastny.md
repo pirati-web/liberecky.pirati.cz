@@ -2,10 +2,13 @@
 uid: jiri.stastny
 name:     Jiří Šťastný  	# běžně používáné jméno
 fullname: Bc. Jiří Šťastný  	# jméno s tituly etc.
+category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
+- odbory
+ordodbory: 5
 titles:
   before: Bc.
 img: people/jiri-stastny.jpg   # 165 x 220
-description:  čerstvý absolvent TUL - fakulta mechatroniky, prodavač v supermarketu       	# kratký popis, max 160 znaků
+description:  čerstvý absolvent TUL - fakulta mechatroniky, vedoucí krajského finančního odboru       	# kratký popis, max 160 znaků
 mail:
 - jiri.stastny@pirati.cz
 ---
