@@ -14,12 +14,12 @@ img: 2022_krajsky_lidri_orez.jpg
 
 <p class="leading-snug pt-2">
 Volby do zastupitelstev měst a obcí <b>proběhnou 23. a&nbsp;24. září 2022</b>.<br/>
-V Libereckém kraji kandidujeme ve všech velkých městech. V krajském městě Liberci jsme postavili kandidátku poprvé a povede ji zkušený člen Honza Hruška. Kandidujeme také v Jablonci nad Nisou, České Lípě, Turnově, Železném Brodě a v koalicích s nezávislými kandidáty v řadě dalších měst a obcí. Vneseme čerstvý vítr do radnic.<br/>
+V Libereckém kraji kandidujeme ve všech velkých městech. V krajském městě Liberci jsme postavili kandidátku poprvé a povede ji zkušený člen Honza Hruška. Kandidujeme také v Jablonci nad Nisou, České Lípě, Turnově, Železném Brodě a v koalicích s nezávislými kandidáty v řadě dalších měst a obcí. Vneseme čerstvý vítr do radnic.<br/><br/>
 <b>Volte nás! Máme odvahu dělat věci správně!</b><br/>
 </p>
 
 
-<div class="mt-12 md:mt-24 space-y-4 mb-24">
+<div class="mt-12 space-y-4 mb-12">
 
   {% include buttons/icon.html href="https://liberec.pirati.cz" icon="ico--chevron-right" cta="Liberec" class="btn--cyan-200 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
  
@@ -31,6 +31,16 @@ V Libereckém kraji kandidujeme ve všech velkých městech. V krajském městě
  
   {% include buttons/icon.html href="https://zeleznybrod.pirati.cz" icon="ico--chevron-right" cta="Železný Brod" class="btn--cyan-200 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
 
+  {% include buttons/icon.html href="https://www.jilemnicebudoucnosti.cz/" icon="ico--chevron-right" cta="Jilemnice Budoucnosti" class="btn--cyan-200 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
+
+
  </div>
+
+
+<h3 class="head-alt-md mt-12">Články o komunálních volbách na našem webu:</h3>
+
+<p class="leading-snug pt-2 mb-24">
+<a href="/aktuality/kdo-jsou-piratsti-lidri-do-komunalnich-voleb-v-libereckem-kraji.html">Kdo jsou pirátští lídři do komunálních voleb v Libereckém kraji?</a>
+</p>
 
 </div>
