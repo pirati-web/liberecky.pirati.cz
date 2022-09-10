@@ -25,7 +25,7 @@ V Libereckém kraji kandidujeme ve všech velkých městech. V krajském městě
  
   {% include buttons/icon.html href="https://jablonec.pirati.cz" icon="ico--chevron-right" cta="Jablonec nad Nisou" class="btn--cyan-200 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
  
-  {% include buttons/icon.html href="https://piraticl.cz" icon="ico--chevron-right" cta="Česká Lípa" class="btn--cyan-200 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
+  {% include buttons/icon.html href="http://piraticl.cz" icon="ico--chevron-right" cta="Česká Lípa" class="btn--cyan-200 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
  
   {% include buttons/icon.html href="https://turnov.pirati.cz" icon="ico--chevron-right" cta="Turnov" class="btn--cyan-200 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
  
