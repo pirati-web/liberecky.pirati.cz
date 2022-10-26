@@ -5,7 +5,7 @@ fullname: Jan Tempel  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
   - zastupitel_kraj
   - pks
-ordpks: 4  
+ordpks: 3  
 ordzastupitel_kraj: 4
 img: people/jan-tempel.jpg   # 165 x 220
 description: IT specialista, pořadatel kulturních akcí, krajský zastupitel            	# kratký popis, max 160 znaků

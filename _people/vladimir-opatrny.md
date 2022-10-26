@@ -5,12 +5,9 @@ fullname: Mgr. Vladimír Opatrný   	# jméno s tituly etc.
 titles:
   before: Mgr.
 category:
-  - neclenove
-  - zastupitel
   - zastupitel_jablonec
-ordzastupitel: 3
-ordneclenove: 1
-description: Knihkupec, podnikatel, zastupitel města Janlonec n.N.
+ordzastupitel_jablonec: 2
+description: Knihkupec, podnikatel, zastupitel města Jablonec n.N.
 img: people/vladimir-opatrny.jpg # zakomentuj radek dokud není fotka
 mail:
   - opatrny@serius.cz

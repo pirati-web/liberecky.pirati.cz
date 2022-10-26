@@ -7,13 +7,10 @@ titles:
   after: FCCA
 category:
   - clenove
-  - zastupitel
-  - zastupitel_jablonec
   - zastupitel_kraj
 ordzastupitel_kraj: 3
-ordzastupitel: 5
 ordclenove: 1
-description: Ekonomka, zastupitel města Jablonec n.N.
+description: Ekonomka, krajská zastupitelka
 img: people/jarmila-valesova.jpg # zakomentuj radek dokud není fotka
 mail:
   - jarmila.valesova@pirati.cz
@@ -23,10 +20,18 @@ profiles:
   #twitter: https://twitter.com/uzivatel.na.twitteru
 ---
 
-35 let, ekonomka, podnikatelka
+Ke zkušenostem z profesního života, které shrnuji níže přibyly za uplynulé dva roky i ty politické. Do září 2019 jsem působila v radě města, předsedala finančnímu výboru a pracovala v dozorčích radách městských společností. Do komunálních voleb jsem šla s ambicí pracovat otevřeném a efektivním hospodaření města. Iniciovala jsem zavedení podrobného Rozklikávacího rozpočtu a pracovala na hledání úspor v městských organizacích. Zahájila jsem jedání, která vyústila ve schválení záměru vybudování nového skateparku v Jablonci.
+Mám tři děti. Ve volném čase se věnuji outdoorovým sportům a vedení skautského oddílu.
+Na komunální zkušenosti ráda navážu v práci pro náš kraj.
 
-členka České pirátské strany
+Přikládám svůj profesní životopis:
 
-matka dvou dcer
+vzdělání:
+2002 - 2008 - VŠE Praha
+2007 - 2010 ACCA
 
-
+profese:
+2007 - 2010 Ernst & Young - asistentka auditora
+2010 - 2011 ADRA - finanční ředitelka
+od roku 2011 provozujeme penzion
+2016 -2017 - audit dotací z Norských fondů

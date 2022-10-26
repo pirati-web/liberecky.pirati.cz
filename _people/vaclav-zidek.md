@@ -4,11 +4,11 @@ name:     Václav Židek  	# běžně používáné jméno
 fullname: Václav Židek  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
   - zastupitel_kraj
-  - pks
+  - zastupitel_ostatni
 ordzastupitel_kraj: 2
-ordpks: 5
+ordzastupitel_ostatni: 1
 img: people/vaclav-zidek-ps.jpg   # 165 x 220
-description: Radní Libereckého kraje pro životní prostředí a zemědělství, čtvrtý místopředseda KS
+description: Radní Libereckého kraje pro životní prostředí a zemědělství, zastupitel obce Jablonné v P.
 mail:
 - vaclav.zidek@pirati.cz
 mob: +420 775 198 038

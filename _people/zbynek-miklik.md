@@ -9,7 +9,7 @@ category:
   - zastupitel_turnov
   - zastupitel_kraj
 ordzastupitel_kraj: 1
-ordzastupitel: 2
+ordzastupitel_turnov: 1
 ordclenove: 1
 description: Náměstek hejtmana, řízení resortu ekonomiky, majetku, investic, veřejných zakázek a informatiky, zastupitel města Turnov
 profession: elektronizace veřejné správy se specializací na veřejné zakázky, poradenství a školení v oblasti nákupu a zadávání veřejných zakázek

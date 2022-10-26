@@ -3,14 +3,13 @@ uid: helena.vondrakova
 name:     Helena Vondráková      	# běžně používáné jméno
 fullname: Helena Vondráková  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-- zastupitel_ostatni
 - odbory
 titles:
   before: Bc.
 ordzastupitel: 2
 ordodbory: 4
 img: people/helena-vondrakova-ps.jpg           # 165 x 220
-description: Scrum master, zastupitelka obce Pulečný, vedoucí krajského personálního odboru
+description: Scrum master, vedoucí krajského personálního odboru
 mail:
 - helena.vondrakova@pirati.cz
 profiles:

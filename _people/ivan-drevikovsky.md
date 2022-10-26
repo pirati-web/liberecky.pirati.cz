@@ -3,7 +3,11 @@ uid: ivan.drevikovsky
 name:     Ivan Dřevikovský  	# běžně používáné jméno
 fullname: Ivan Dřevikovský  	# jméno s tituly etc.
 img: people/ivan-drevikovsky_2.jpg   # 165 x 220
-description: student VŠ ekonomie a managementu, OSVČ v oboru pojišťovnictví, spoluzakladatel spolku Turnov pomáhá           	# kratký popis, max 160 znaků
+description: student VŠ ekonomie a managementu, OSVČ v oboru pojišťovnictví, spoluzakladatel spolku Turnov pomáhá, zastupitel města Turnov
+category: 
+  - clenove
+  - zastupitel_turnov
+ordzastupitel_turnov: 2
 mail:
 - ivan.drevikovsky@pirati.cz
 profiles:

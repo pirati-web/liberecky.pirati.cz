@@ -8,7 +8,7 @@ category:
   - neclenove
   - zastupitel
   - zastupitel_jablonec
-ordzastupitel: 1
+ordzastupitel_jablonec: 1
 ordneclenove: 2
 description: Architekt a urbanista, zastupitel města Jablonec n.N
 img: people/jakub-chuchlik.jpg # zakomentuj radek dokud není fotka

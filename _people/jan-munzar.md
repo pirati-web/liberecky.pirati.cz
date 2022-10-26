@@ -3,7 +3,10 @@ uid: jan.munzar
 name:     Jan Munzar  	# běžně používáné jméno
 fullname: Jan Munzar  	# jméno s tituly etc.
 img: people/jan-munzar.jpg   # 165 x 220
-description: Project engineer           	# kratký popis, max 160 znaků
+description: Project engineer, čtvrtý místopředseda krajského sdružení           	# kratký popis, max 160 znaků
+category:                 	# kategorie: kandidat, pks, zastupitel
+  - pks
+ordpks: 5
 mail:
 - jan.munzar@pirati.cz
 profiles:

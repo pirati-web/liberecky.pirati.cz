@@ -3,11 +3,8 @@ uid: ondrej.vitecek
 name:     Ondřej Víteček  	# běžně používáné jméno
 fullname: Ondřej Víteček  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
-- zastupitel
-- zastupitel_ceska_lipa
-ordzastupitel: 1
 img: people/ondrej-vitecek.jpg   # 165 x 220
-description: IT administrátor, zastupitel města Česká Lípa.            	# kratký popis, max 160 znaků
+description: IT administrátor            	# kratký popis, max 160 znaků
 mail:
 - ondrej.vitecek@pirati.cz
 profiles:

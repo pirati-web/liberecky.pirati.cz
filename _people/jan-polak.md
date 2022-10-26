@@ -3,13 +3,9 @@ uid: jan.polak
 name:     Jan Polák  	# běžně používáné jméno
 fullname: Jan Polák  	# jméno s tituly etc.
 category:
-  - pmsjbc
-  - zastupitel
-  - zastupitel_jablonec
-ordzastupitel: 4
 ordpmsjbc: 1
 description:
-  Světoběžník, podnikatel, zastupitel města Jablonec n.N., předseda MS Jablonec n.N.
+  Světoběžník, podnikatel
 img: people/jan-polak.jpg # zakomentuj radek dokud není fotka
 mail:
   - jan.polak@pirati.cz

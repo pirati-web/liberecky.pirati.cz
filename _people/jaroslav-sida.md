@@ -6,9 +6,8 @@ titles:
   before: Mgr.
 category:
   - clenove
-  - zastupitel
   - zastupitel_jablonec
-ordzastupitel: 2
+ordzastupitel_jablonec: 3
 ordclenove: 1
 description: Právník a podnikatel, zastupitel města Jablonec n.N
 img: people/jaroslav-sida.jpg # zakomentuj radek dokud není fotka
